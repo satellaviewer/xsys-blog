@@ -108,7 +108,7 @@ So, to join as a Profaner with H-Groove, use “!enter Profaner/H-Groove”!
 ### Attack Classes {#attack-classes}
 
 
-#### Profaner (Dark Blast) {#profaner-dark-blast}
+#### [Profaner (Dark Blast)](/system/skills#Profaner) {#profaner-dark-blast}
 
 A simple all-offense class, Profaners channel a connection to the Profound Darkness to single-handedly wipe entire armies off the field with powerful antiphoton techniques. Anyone can use the Profaner effectively, if they’re willing to pay the price for their power. Based on the Phantasy Star Online 2 mechanic “Dark Blast.”
 
@@ -122,7 +122,7 @@ _Class Mechanics: Exhaust and Shadow Photons_
 * Black Hole can open up all sorts of exciting tactical situations, if used creatively!
 
 
-#### Bouncer (Jet Pursuit) {#bouncer-jet-pursuit}
+#### [Bouncer (Jet Pursuit)](/system/skills#Bouncer) {#bouncer-jet-pursuit}
 
 An elegant and stylish offense class, Bouncers use a rocket-polearm to launch wildly after enemies, striking down to propel themselves back up. They soar through the air with stored magic charge streaming behind them, striking stylish poses the whole time. Truly, these are the residents of the sky. Inspired by the traditional Kode class "Dragoon," and a few other things…
 
@@ -135,7 +135,7 @@ _Class Mechanics: Delay and Combo_
 * Combo builds up with weak fast hits, and cashes out with large single hits. There are lots of ways to cash it out, so determine whether you need something right now or if you can afford to wait for the big hit!
 
 
-#### Scion (Successor Arts) {#scion-successor-arts}
+#### [Scion (Successor Arts)](/system/skills#Scion) {#scion-successor-arts}
 
 A versatile, agile offensive class that switches fluidly between physical and ranged attacks. Drawing out the Scion’s full potential requires carefully thinking through your combo tree, but a truly skilled one can be both devastating and untouchable. Based on the PSO2 Scion Classes "Hero" and "Luster."
 
@@ -147,7 +147,7 @@ _Class Mechanics: Exhaust and Voltage_
 * Voltage is built up with hits, and consumed entirely when used. It’s up to you to decide whether to cash it out early or save it up to get the free status buff at the cap.
 
 
-#### Decider (Vanguard Pilot) {#decider-vanguard-pilot}
+#### [Decider (Vanguard Pilot)](/system/skills#Decider) {#decider-vanguard-pilot}
 
 A powerful and heavy offensive class, Deciders take to the field in a Vanguard, a three-meter-tall mech suit with a shoulder-mounted railgun originally built for military use. Experts at dealing damage and controlling the battlefield, these heavy machines can dance and weave through the front lines, blazing open a path for their forces. Based on the Xbox game “Steel Battalion.”
 
@@ -164,7 +164,7 @@ _Class Mechanics: Battery, Exhaust, Delay, and Clipazines_
 ### Support Classes {#support-classes}
 
 
-#### Arcanimist (Lost Arcanima) {#arcanimist-lost-arcanima}
+#### [Arcanimist (Lost Arcanima)](/system/skills#Arcanimist) {#arcanimist-lost-arcanima}
 
 A support class that provides buffs, healing, and shielding to their allies, Arcanimists are the last bearers of the art of controlling floating magitek pylons called distaves, thought lost to history during the Seventh Umbral Calamity. Based on what information exists of the unimplemented FFXIV 1.0 class "Arcanist."
 
@@ -176,7 +176,7 @@ _Class Mechanic: Distaves_
 * Deploying a distaff to an ally applies a buff to that ally, and other skills can reuse that distaff to reapply that buff, apply new buffs, or heal.
 
 
-#### Wrathguard (Four Quadrants) {#wrathguard-four-quadrants}
+#### [Wrathguard (Four Quadrants)](/system/skills#Wrathguard) {#wrathguard-four-quadrants}
 
 A defensive class, the Wrathguard fights with massive greatsword and fist interchangeably, knocking aside their opponents’ blows. With their powerful reactions, they often fight almost as much outside their turn as they do on their own turn, defending by interrupting and intercepting enemy attacks. Based (loosely) on 14th century German longsword techniques.
 
@@ -189,7 +189,7 @@ _Class Mechanics: Exhaust, Breath, and Readied_
 * By using Prepare Reaction on your turn, you can react more during enemy turns. Use this to chain together multiple reactions into defensive combos!
 
 
-#### Arbiter (Calling Card) {#arbiter-calling-card}
+#### [Arbiter (Calling Card)](/system/skills#Arbiter) {#arbiter-calling-card}
 
 A versatile and highly-tactical support class, the Arbiter is the latest student in a long tradition of RCP technicians. They draw "calling cards" from the callscript, summoning allies from distant worlds and sending them leaping into the fray at just the right moment. A skilled Arbiter always has the perfect card up their sleeve. Based on standard arena classes like "RCP Tech" and "SeeD."
 
@@ -204,7 +204,7 @@ _Class Mechanic: Callcards_
 * You draw _at the end of your turn_. That means you can go wild throwing out cards during your turn– but carefully consider how many cards you burn on reactions! If you start your turn with no cards, you can slowly catch up with Redraw or Destiny Draw.
 
 
-#### [Correspondent (Red Science)](/system/kode#Correspondent) {#correspondent-red-science}
+#### [Correspondent (Red Science)](/system/skills#Correspondent) {#correspondent-red-science}
 
 An esoteric and strange support class, the Correspondent composes essays of flame in a searing language. Correspondents can twist and tweak skills of both allies and enemies as they're cast, but require careful planning and strategy to make the most of their odd skillset. Don’t think too many sigils at once, or your hair might start to smolder! Based on the Fallen London profession "Correspondent."
 
