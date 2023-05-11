@@ -18,18 +18,6 @@
     {% include head-custom.html %}
   </head>
   <body>
-      <div id="header">
-        <nav>
-          <ul>
-            <!--<li class="fork"><a href=" site.github.repository_url ">View On GitHub</a></li>
-            {% if site.show_downloads %}
-              <li class="downloads"><a href="{{ site.github.zip_url }}">ZIP</a></li>
-              <li class="downloads"><a href="{{ site.github.tar_url }}">TAR</a></li>
-              <li class="title">DOWNLOADS</li>
-            {% endif %}-->
-          </ul>
-        </nav>
-      </div><!-- end header -->
 
     <div class="wrapper">
 
@@ -38,6 +26,12 @@
           <h1>{{ site.title | default: site.github.repository_name }}</h1>
           <p>{{ site.description | default: site.github.project_tagline }}</p>
           <hr>
+          <span class="credits left">
+		       <a href="https://docs.google.com/document/d/1J5YzXeR3DysPkzXioFvRnaAyMHvTbTKk1hAvmNx2dNo/edit#">X-Kode</a> ------ <a href="https://www.dustbreaker.co/kode.html">Classes and Skills</a> ------ <a href="https://bitbucket.org/satellaviewer/xsys-v2/src/master/">XSYS Codebase</a>
+		   </span>
+		  <span class="credits right">
+			<a href="/posts">Post Archive</a>
+		  </span>
         </div>
 
         {{ content }}
