@@ -3,6 +3,11 @@
 
 @import "{{ site.theme }}";
 
+/* the "peel off those AWFUL defaults" segment */
 body {
 	background: linear-gradient(#3a0955, #311966);
+	padding: 0;
+}
+section {
+	margin-top: 0px;
 }
