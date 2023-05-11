@@ -228,10 +228,10 @@ Each of these Grooves is based on a different boss-battle system that came befor
 
 
 
-* **H-Groove: **Classic combat style, and the default for new fighters. Gain an Adrenaline Gauge, which increases when dealing damage, taking damage, or healing. Consume 50% to boost an attack or 100% to use a Limit Break. (Rate: Medium) (Decay: Slow)
-* **L-Groove: **Overwhelming combat style. Gain a Bloobel Gauge, which increases when hit, up to 300%. On your turn, consume 100% and 1 TP to use a Limit Break. Or, consume 200% or 300% all at once for a more powerful LB! (Rate: Medium) (Decay: Slow)
-* **F-Groove: **Jackpot combat style. At the start of your turn, based on your HP and overall hero team state, randomly occasionally receive a Limit Turn: gain 2 TP and have the option to use a single Limit Break for 1 TP. (Rate: Random)
-* **V-Groove: **Moonlit combat style. Gain a Drive Gauge (max 5). Gain 1 point after each turn not using a Limit Break. Consume 2 Drive and 1 TP to use a Limit Break at half power. (Rate: Fixed)
+* **H-Groove:** Classic combat style, and the default for new fighters. Gain an Adrenaline Gauge, which increases when dealing damage, taking damage, or healing. Consume 50% to boost an attack or 100% to use a Limit Break. (Rate: Medium) (Decay: Slow)
+* **L-Groove:** Overwhelming combat style. Gain a Bloobel Gauge, which increases when hit, up to 300%. On your turn, consume 100% and 1 TP to use a Limit Break. Or, consume 200% or 300% all at once for a more powerful LB! (Rate: Medium) (Decay: Slow)
+* **F-Groove:** Jackpot combat style. At the start of your turn, based on your HP and overall hero team state, randomly occasionally receive a Limit Turn: gain 2 TP and have the option to use a single Limit Break for 1 TP. (Rate: Random)
+* **V-Groove:** Moonlit combat style. Gain a Drive Gauge (max 5). Gain 1 point after each turn not using a Limit Break. Consume 2 Drive and 1 TP to use a Limit Break at half power. (Rate: Fixed)
 
 
 ### Specialized Grooves {#specialized-grooves}
