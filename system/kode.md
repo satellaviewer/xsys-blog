@@ -83,7 +83,7 @@ So, to join as a Profaner with H-Groove, use “!enter Profaner/H-Groove”!
 * **[S] Support Skills** are green, and provide passive buffs or abilities.
     * **Mechanic S-Skills** are reverse-green (black text on a green background), and describe the core mechanic of your class.
     * If you read nothing else, read your Mechanic S-Skill!
-* **[I] Interrupt Skills** are white/grey, and can be used at the **start **of any other unit’s turn.
+* **[I] Interrupt Skills** are white/grey, and can be used at the **start** of any other unit’s turn.
 * **[R] Reaction Skills** are yellow, and can be used in the middle of another action, when their condition is met. (Normally, you can only react once per action–so reacting to a spell being cast means you can’t _also _react to taking damage from the same spell. The Wrathguard class can break this rule.)
 * **[LB] Limit Breaks** are white and red, and are extremely powerful special moves. Your Groove determines when you can use these, and how much TP they cost.
 
