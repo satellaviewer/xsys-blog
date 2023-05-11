@@ -1,5 +1,5 @@
 layout: post
-title: "Let's begin."
+title: "lets-begin"
 date: 2023-10-05 00:00:00 -0000
 categories: misc
 
