@@ -67,7 +67,7 @@ So, to join as a Profaner with H-Groove, use “!enter Profaner/H-Groove”!
 
 * The loadout you join battle with determines what skills you have.
 * Skills without a tag at the start of the name or a color are **Action Skills.** They’re your bread and butter, the vast majority of what you’ll use. Let’s look at an example, piece by piece:
-    * **Shoulder Charge Alpha (Vanguard Pilot): **[75%], R30. _Rush the target and collide face-first, attempting to knock them down._ Reduces target's CT by 5. (1E, 1 TP)
+    * **Shoulder Charge Alpha (Vanguard Pilot):** [75%], R30. _Rush the target and collide face-first, attempting to knock them down._ Reduces target's CT by 5. (1E, 1 TP)
         * **Shoulder Charge Alpha:** Skill name. You can always use “!desc Skill Name” to look up skill info. (This specific skill doesn’t really exist, though.)
         * **(Vanguard Pilot):** Skillset name, representing the class it’s a part of. This one maps to Decider, so you can use either “!class Decider” or “!class Vanguard Pilot” to see the whole class’s info.
         * **[75%]:** Accuracy. Bracketed accuracy is fixed– it’s always exactly a 75% chance.
@@ -204,7 +204,7 @@ _Class Mechanic: Callcards_
 * You draw _at the end of your turn_. That means you can go wild throwing out cards during your turn– but carefully consider how many cards you burn on reactions! If you start your turn with no cards, you can slowly catch up with Redraw or Destiny Draw.
 
 
-#### Correspondent (Red Science) {#correspondent-red-science}
+#### [Correspondent (Red Science)](/system/kode#Correspondent) {#correspondent-red-science}
 
 An esoteric and strange support class, the Correspondent composes essays of flame in a searing language. Correspondents can twist and tweak skills of both allies and enemies as they're cast, but require careful planning and strategy to make the most of their odd skillset. Don’t think too many sigils at once, or your hair might start to smolder! Based on the Fallen London profession "Correspondent."
 
@@ -212,11 +212,9 @@ _Class Mechanic: Sigils_
 
 
 
-* **Sketch **allows you to copy parts of skills (like accuracy or power numbers) as sigils. You can then use **Write **or **Inscribe **to temporarily overwrite the equivalent data on another skill.
+* **Sketch** allows you to copy parts of skills (like accuracy or power numbers) as sigils. You can then use **Write** or **Inscribe** to temporarily overwrite the equivalent data on another skill.
 * The target skill needs to have corresponding data to replace. For example, you can’t write power onto a skill without power.
-* Be careful, for Correspondence sigils are dangerous and volatile things! If you hold too many in your mind at once, you'll start to burn. Either write them down with **Leaden Study **or use more!
-
-**All class skill data is now available at [https://www.dustbreaker.co/kode.html](https://www.dustbreaker.co/kode.html).**
+* Be careful, for Correspondence sigils are dangerous and volatile things! If you hold too many in your mind at once, you'll start to burn. Either write them down with **Leaden Study** or use more!
 
 
 ## Section III: Limit Breaks and Grooves {#section-iii-limit-breaks-and-grooves}
@@ -248,8 +246,8 @@ Each of these Grooves is based on a different boss-battle system that came befor
     * **[R] Clutch Defense**: 100% Pressure. At any time, gain Clutch Defense status until the start of your next turn: all defensive stats raise sharply, and HP cannot drop below 1.
     * **Pressure Break**: 100% Pressure. Use a LB as a 1 TP action.
 * **N-Groove:** Valorous combat style. Gain a Valor Meter (max 6). If you gain or spend class-specific resources during a turn, gain one Valor at the end of the turn. Valor can also be directly awarded by the ref for roleplay and creative shenanigans. Spend 6 Valor and 1 TP to use a Limit Break. (Rate: Fixed)
-* **W-Groove: **Power-of-friendship combat style. Gain an Overdrive Gauge, which increases with damage and KOs to self and allies, up to 300%. Consume the entire gauge to use a single skill or Limit Break (for 1 TP) with power multiplied by the hundreds digit of the gauge value. Powering up a Limit Break beyond 100% breaks the gauge for the rest of the battle. (Rate: Medium) (Decay: Slow)
-* **Z-Groove: **Crescendo combat style. Gain an SP Gauge, which increases when using support or healing moves. Consume 100% to use a Limit Break. (Rate: Fast) (Decay: Medium)
+* **W-Groove:** Power-of-friendship combat style. Gain an Overdrive Gauge, which increases with damage and KOs to self and allies, up to 300%. Consume the entire gauge to use a single skill or Limit Break (for 1 TP) with power multiplied by the hundreds digit of the gauge value. Powering up a Limit Break beyond 100% breaks the gauge for the rest of the battle. (Rate: Medium) (Decay: Slow)
+* **Z-Groove:** Crescendo combat style. Gain an SP Gauge, which increases when using support or healing moves. Consume 100% to use a Limit Break. (Rate: Fast) (Decay: Medium)
 
 Your Groove will tell you how many TP a Limit Break costs for you. It’s usually 1 TP.
 
