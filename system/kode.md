@@ -265,22 +265,17 @@ Some Grooves modify the power of a Limit Break.
 
 ### General Commands {#general-commands}
 
-!desc: Show a skill’s description. Use as “!desc Fight”.
-
-!item: Show an item’s description. Use as “!item Shadow Photon”.
-
-!class: Show a class’s description, skills, and stats. Use as “!class Profaner”.
-
-!classes: Show the names of all classes that heroes can join as.
+* !desc: Show a skill’s description. Use as “!desc Fight”.
+* !item: Show an item’s description. Use as “!item Shadow Photon”.
+* !class: Show a class’s description, skills, and stats. Use as “!class Profaner”.
+* !classes: Show the names of all classes that heroes can join as.
 
 
 ### In-Battle Commands {#in-battle-commands}
 
-!stats, !status: Show an overview of all units (HP, statuses, etc). Specify a unit name to show detailed info about them.
-
-!turnorder, !to: Show a preview of the next few turns.
-
-!preset: Set requested actions for your next turn. (You can’t preset Reaction or Interrupt calls.)
+* !stats, !status: Show an overview of all units (HP, statuses, etc). Specify a unit name to show detailed info about them.
+* !turnorder, !to: Show a preview of the next few turns.
+* !preset: Set requested actions for your next turn. (You can’t preset Reaction or Interrupt calls.)
 
 
 ## Appendix I: Statuses {#appendix-i-statuses}
