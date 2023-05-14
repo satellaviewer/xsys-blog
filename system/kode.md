@@ -25,10 +25,8 @@ Conversion notes:
 
 Kode for the default classes included with XSYS, the Extensible Boss Battle System.
 
-
-[TOC]
-
-
+* this is a table of contents and this line, while invisible, is load-bearing
+{:toc}
 
 ## Introduction {#introduction}
 
