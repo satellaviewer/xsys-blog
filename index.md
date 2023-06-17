@@ -1,10 +1,11 @@
 ---
 ---
 <ul>
-  {% for post in site.posts %}
+  {% for post in site.posts limit:6 %}
     <li>
-      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-      {{ post.excerpt }}
+      <h2><a href="{{ post.url }}">{{ post.title }} - {{ post.date | date: '%Y-%m-%d' }}</a></h2>
+      {{ post.content }}
     </li>
   {% endfor %}
 </ul>
+<h2><a href="/posts">Post Archive</a></h2>

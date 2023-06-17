@@ -1,10 +1,12 @@
 ---
 categories: commentary
+title: "Director's Commentary: Why XSYS?"
 ---
 
 # Director's Commentary: Why XSYS?
 
 Ultimately, this all starts with two things.
+<!--more-->
 
 One, the tragic passing of Aurida, about which I couldn't hope to say a damn thing that hasn't already been said. But it gathered the #rpx community back together, and made me regret not ever really finishing a second swing at what was then called "ZSYS".
 
