@@ -1,1 +1,7 @@
 * use `jekyll serve` to make it locally available on http://127.0.0.1:4000/
+
+[ ] posts aren't showing up...
+https://github.com/barryclark/jekyll-now
+https://prose.io/
+https://www.dustbreaker.co/
+https://michaelsoolee.com/jekyll-post-page/
