@@ -1,5 +1,5 @@
 ---
-categories: commentary
+tags: commentary
 title: "Director's Commentary: Why XSYS?"
 ---
 

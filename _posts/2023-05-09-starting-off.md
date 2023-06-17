@@ -1,5 +1,5 @@
 ---
-categories: misc
+tags: misc
 ---
 
 # Let's begin.
