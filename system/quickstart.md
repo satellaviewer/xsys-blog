@@ -13,10 +13,11 @@
 1. Pick a class.
 	* If you're new, try the Profaner (an all-offense dark-magic wielder) or the Bouncer (a high-flying evasive offense class)!
 	* You can view each class's skills on the [Skills page](skills.html).
-2. Pick a Groove.
+2. Pick a Groove from list at the bottom of the Skills page.
 	* If you're not sure, pick H-Groove!
 3. Join with "!enter Main Class/Groove".
 	* If you have secondary classes or auxiliaries unlocked, you can use "!enter Main Class/Secondary Class/Auxiliary/Groove" to specify those.
+	* For example, you can enter with "!enter Profaner/H-Groove".
 4. On your turn, pick 3 TP worth of actions.
 	* Most actions are 1 TP. Some are 0 TP "free" actions.
 	* You can't use the same action multiple times in the same turn, unless it specifically says you can.
