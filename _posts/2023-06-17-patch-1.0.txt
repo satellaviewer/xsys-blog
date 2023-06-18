@@ -1,0 +1,9 @@
+---
+tags: releases
+---
+
+# Patch 1.0-RC1, A Ref Reborn, is now out!
+
+The XSYS Boss Battle System is just about to officially start! Watch this space for closed-beta testing news.
+
+In the meantime, check out the new [how to play](/system/quickstart) page, and the [patch notes](/system/releasenotes) page for more information.
