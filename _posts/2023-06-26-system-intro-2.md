@@ -1,6 +1,6 @@
 ---
 tags: story
-name: "Story Preshow 6/30: The Second Eighty Percent of the Budget"
+title: "Story Preshow 6/30: The Second Eighty Percent of the Budget"
 ---
 
 Open on the main arena floor. The stands are empty. There's still a fair amount of construction debris, and humanoid mechanical entities (synths) with wild creative designs are helping put the finishing touches on the construction, welding here, sealing up a panel there.

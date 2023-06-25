@@ -1,6 +1,6 @@
 ---
 tags: story
-name: "The Desert of Doors"
+title: "The Desert of Doors"
 ---
 
 This story starts with you. You and a door.
