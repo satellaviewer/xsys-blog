@@ -11,47 +11,36 @@ title: "Story Preshow 6/30: Regulatory Concerns"
 
 *A synth with booster engines built into its back walks by, waving to Magus.*
 
-BOOSTER SYNTH: Hey, Magus! I'll be back tonight to hook up the speakers.
-
-MAGUS: [waving] Got it, you have a good one!
+* BOOSTER SYNTH: Hey, Magus! I'll be back tonight to hook up the speakers.
+* MAGUS: [waving] Got it, you have a good one!
 
 *Magus turns his attention back to the crate, and pushes it into place.*
 
-MAGUS: Ahhh, I am now officially *excited*. It's gonna feel *great* to have an RCP in my hands again.
-
-LOADER SYNTH: Again? So you've done this kind of thing before?
-
-MAGUS: Sure have! I had a whole floating island for my arena last time, the Lunatic Fragment. We'd go from world to world, set up shop, run fights... It was great.
-
-LOADER SYNTH: Sounds thrilling! ...May I ask why you gave it up?
-
-MAGUS: [lifting another heavy crate, audibly straining] You ever explore outside the city?
+* MAGUS: Ahhh, I am now officially *excited*. It's gonna feel *great* to have an RCP in my hands again.
+* LOADER SYNTH: Again? So you've done this kind of thing before?
+* MAGUS: Sure have! I had a whole floating island for my arena last time, the Lunatic Fragment. We'd go from world to world, set up shop, run fights... It was great.
+* LOADER SYNTH: Sounds thrilling! ...May I ask why you gave it up?
+* MAGUS: [lifting another heavy crate, audibly straining] You ever explore outside the city?
 
 *The loader synth tilts its head, too far and too slow, like it's only ever heard this gesture described.*
 
-LOADER SYNTH: No, I can't say that kind of thing usually interests me.
+* LOADER SYNTH: No, I can't say that kind of thing usually interests me.
 
 *Magus sets the crate down and pushes it deeper into a small alcove.*
 
-MAGUS: [grinning] It's real beautiful. You head up the coast, there's a big open field, a little ways out. Grass, flowers, lovely morning breeze, real idyllic shit.
+* MAGUS: [grinning] It's real beautiful. You head up the coast, there's a big open field, a little ways out. Grass, flowers, lovely morning breeze, real idyllic shit.
 
 *The loader synth takes this deflection as its answer, nods politely, and drops the subject.*
 
 *A few moments pass. Magus reaches up, grabs a roll-down metal shutter, and pulls it down until it clicks shut, securing the crates.*
 
-MAGUS: And in the middle of that field, there is one big-ass floating island, crashed sideways straight into the grass.
-
-LOADER SYNTH: [alarmed, visor flashing an exclamation point] How did THAT happen?
-
-MAGUS: The audience just gradually stopped coming in. I guess the novelty wore off.
-
-LOADER SYNTH: And that... physically destabilized it? Or...
-
-MAGUS: Huh? No, no, nothing *that* dramatic. No ticket fees, no replacement parts! I couldn't keep the suspensors running, and, well, this world was the closest one. So I brought it down there a couple years ago.
-
-LOADER SYNTH: Oh, that makes sense. Fascinating. I didn't realize the island you described was a spacefaring vessel.
-
-MAGUS: Eh? No, no, world like...
+* MAGUS: And in the middle of that field, there is one big-ass floating island, crashed sideways straight into the grass.
+* LOADER SYNTH: [alarmed, visor flashing an exclamation point] How did THAT happen?
+* MAGUS: The audience just gradually stopped coming in. I guess the novelty wore off.
+* LOADER SYNTH: And that... physically destabilized it? Or...
+* MAGUS: Huh? No, no, nothing *that* dramatic. No ticket fees, no replacement parts! I couldn't keep the suspensors running, and, well, this world was the closest one. So I brought it down there a couple years ago.
+* LOADER SYNTH: Oh, that makes sense. Fascinating. I didn't realize the island you described was a spacefaring vessel.
+* MAGUS: Eh? No, no, world like...
 
 *Magus realizes perhaps this random synth isn't quite ready to hear something so metaphysically earthshaking. Instead, he walks closer and tries to reach up to pat it on the shoulder-- but it's tall enough that he has to settle for a pat on the forearm-plating instead.*
 
