@@ -75,7 +75,7 @@ title: "Story Preshow 6/30: Regulatory Concerns"
 
 *The room beyond is cluttered, but clean-- stacks of books litter the floor, pushed to the side to make a small path to the desk at the back of the room. In front of the desk stands Marlow-- she's wrapped in either robes or desert-wanderer-style bandages from head to toe, and her face is a smooth plate with unmoving glowing yellow eyes that pulsate faintly when she talks. She's anxiously fidgeting with the corner of a book.*
 
-*Marlow waves off the glasses-synth, who bows out apologetically. Magus lets the door shut, then tugs on it to make *sure* it's locked, before he says so much as a single word.*
+*Marlow waves off the glasses-synth, who bows out apologetically. Magus lets the door shut, then tugs on it to make SURE it's locked, before he says so much as a single word.*
 
 * MAGUS: [smiling politely, a little nervous, joking but not joking] So, are you gonna actually give this whole deal your approval, or are you gonna tell me that half the city's wasted the last six months? [waving a finger off to the side] Because if it's that second one, you may as well just rip the adhesive medical strip off right now.
 * MARLOW: That depends on what you tell me.
