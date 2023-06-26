@@ -131,48 +131,48 @@ title: "Story Preshow 6/30: Regulatory Concerns"
 
 -----
 
-Fade in high over the arena. The stands are packed with synths of various colors, eating exotic foods (show a faceplate popped up to toss a red popcorn-like object with blue dusting into a dark gap between its faceplate and chin, with no further detail) and chattering excitedly.
+*Fade in high over the arena. The stands are packed with synths of various colors, eating exotic foods (show a faceplate popped up to toss a red popcorn-like object with blue dusting into a dark gap between its faceplate and chin, with no further detail) and chattering excitedly.*
 
-Cut to the lobby, basically a public-transit marketplace between subway stations. It's organized chaos-- synths are sitting in the middle of open floor space to eat, and other synths are weaving and ducking around them. Some are larger industrial models having trouble crouching under the ceiling, and others are short enough that they have to climb up on the counter to talk to the confused synths attempting to help them.
+*Cut to the lobby, basically a public-transit marketplace between subway stations. It's organized chaos-- synths are sitting in the middle of open floor space to eat, and other synths are weaving and ducking around them. Some are larger industrial models having trouble crouching under the ceiling, and others are short enough that they have to climb up on the counter to talk to the confused synths attempting to help them.*
 
-No currency or prices are visible anywhere in this scene. Their absence should be unobtrusive.
+*No currency or prices are visible anywhere in this scene. Their absence should be unobtrusive.*
 
-Magus dashes through, and the camera turns to follow, so we get a sense of how the rooms connect: the lobby has ticket booths he dashes past, turnstiles being ripped out to allow a tank-treaded synth to get through (and he steps up on their plating to vault over the turnstiles as they're carried out). It connects to the stadium proper, and we can see nobody's out on the simple grid field yet. He takes another turn and heads through a staff door into back tunnels with exposed pipes and wiring.
+*Magus dashes through, and the camera turns to follow, so we get a sense of how the rooms connect: the lobby has ticket booths he dashes past, turnstiles being ripped out to allow a tank-treaded synth to get through (and he steps up on their plating to vault over the turnstiles as they're carried out). It connects to the stadium proper, and we can see nobody's out on the simple grid field yet. He takes another turn and heads through a staff door into back tunnels with exposed pipes and wiring.*
 
-Finally, he turns and barges through the doors of a locker room, and we get our first shot of the heroes.
+*Finally, he turns and barges through the doors of a locker room, and we get our first shot of the heroes.*
 
-Each one has a smooth rounded device strapped to a forearm. It's shaped vaguely like half an almond, with a round glowing button on the top. They seem to have automatically matched the color schemes of their outfits. A synth with angular stripes is helping get them fitted.
+*Each one has a smooth rounded device strapped to a forearm. It's shaped vaguely like half an almond, with a round glowing button on the top. They seem to have automatically matched the color schemes of their outfits. A synth with angular stripes is helping get them fitted.*
 
-MAGUS: You *did* tell everyone this is just a test, right?
-STRIPED SYNTH: [glances over, still working] Oh, that's why everyone is here!
-MAGUS: Eh?
-STRIPED SYNTH: What could be more exciting than the first run? Who knows what might go wrong!
-MAGUS: ...I, uh. Hm. Yeah, that's fair. I love a good disaster too.
-STRIPED SYNTH: That's the spirit!
+* MAGUS: You *did* tell everyone this is just a test, right?
+* STRIPED SYNTH: [glances over, still working] Oh, that's why everyone is here!
+* MAGUS: Eh?
+* STRIPED SYNTH: What could be more exciting than the first run? Who knows what might go wrong!
+* MAGUS: ...I, uh. Hm. Yeah, that's fair. I love a good disaster too.
+* STRIPED SYNTH: That's the spirit!
 
-The heroes start to look a little concerned. Magus notices, claps, and moves to the front of the room, near the exit onto the field.
+*The heroes start to look a little concerned. Magus notices, claps, and moves to the front of the room, near the exit onto the field.*
 
-MAGUS: Welcome, heroes, to the first battle of XSYS, the Xtreme Boss Battle System! Those Hero Drivers are prototypes, and loaners, so, uh, please return them at the end of the fight.
+* MAGUS: Welcome, heroes, to the first battle of XSYS, the Xtreme Boss Battle System! Those Hero Drivers are prototypes, and loaners, so, uh, please return them at the end of the fight.
 
-This is clearly not playing terribly well with the crowd. Magus thinks it over, takes out something like a Flipper Zero, and cues up a song over the intercom.
+*This is clearly not playing terribly well with the crowd. Magus thinks it over, takes out something like a Flipper Zero, and cues up a song over the intercom.*
 
 [[BGM: How to Play - Super Smash Bros. Melee] ](https://www.youtube.com/watch?v=9e18nqM1WXU)
 
-MAGUS: Beyond the doors of this arena, you'll be able to wield the wild powers of distant legendary heroes, and safely test your strength against all kinds of foes!
+* MAGUS: Beyond the doors of this arena, you'll be able to wield the wild powers of distant legendary heroes, and safely test your strength against all kinds of foes!
 
-THIS is playing much better. There's some positive chatter.
+*THIS is playing much better. There's some positive chatter.*
 
-MAGUS: If you're ready to carve your names into history as the first group of heroes in Blue Arcadia, then get out there and have fun with it!
+* MAGUS: If you're ready to carve your names into history as the first group of heroes in Blue Arcadia, then get out there and have fun with it!
 
-The heroes... don't exactly charge, but more casually stroll past him, out onto the field. Magus collapses exhaustedly onto one of the benches.
+*The heroes... don't exactly charge, but more casually stroll past him, out onto the field. Magus collapses exhaustedly onto one of the benches.*
 
-STRIPED SYNTH: You okay?
-MAGUS: Yeah, yes, I'm fine. Just... get 'em all started for me, would ya? ...I wasn't expecting this much of a crowd.
-STRIPED SYNTH: Oh, sure, you got it!
-MAGUS: Great, thanks.
+* STRIPED SYNTH: You okay?
+* MAGUS: Yeah, yes, I'm fine. Just... get 'em all started for me, would ya? ...I wasn't expecting this much of a crowd.
+* STRIPED SYNTH: Oh, sure, you got it!
+* MAGUS: Great, thanks.
 
-The striped synth leaves. After a moment to catch his breath, Magus stands up and looks at the lockers.
+*The striped synth leaves. After a moment to catch his breath, Magus stands up and looks at the lockers.*
 
-MAGUS: Hmm... now where did I leave that...
+* MAGUS: Hmm... now where did I leave that...
 
-Wipe to the arena floor, where the fight is just starting to begin...
+*Wipe to the arena floor, where the fight is just starting to begin...*
