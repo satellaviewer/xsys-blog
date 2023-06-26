@@ -44,91 +44,92 @@ title: "Story Preshow 6/30: Regulatory Concerns"
 
 *Magus realizes perhaps this random synth isn't quite ready to hear something so metaphysically earthshaking. Instead, he walks closer and tries to reach up to pat it on the shoulder-- but it's tall enough that he has to settle for a pat on the forearm-plating instead.*
 
-MAGUS: You know what, don't worry about it. You did great today.
+* MAGUS: You know what, don't worry about it. You did great today.
 
-Magus starts searching through his longcoat's pockets, looking for something.
-LOADER SYNTH: [proudly] Thank you! And thank you for offering me a chance to be part of your project.
+*Magus starts searching through his longcoat's pockets, looking for something.*
 
-Magus finds a small translucent-yellow acrylic-plastic rectangle, and hands it to the synth.
+* LOADER SYNTH: [proudly] Thank you! And thank you for offering me a chance to be part of your project.
 
-MAGUS: Here's two hundred nuyen, for your help. I figure it's the least I can do.
-LOADER SYNTH: Ah, delightful! I can't wait to add this to my personal display down at Galleria Guardinane.
-MAGUS: [befuddled] ...Uh, sure, all right. I got more where that came from, any time you want to help out!
-LOADER SYNTH: [already walking away] Oh, I expect one will be more than enough. Thank you, though!
+*Magus finds a small translucent-yellow acrylic-plastic rectangle, and hands it to the synth.*
 
-Magus folds his arms, not sure what to make of this.
+* MAGUS: Here's two hundred nuyen, for your help. I figure it's the least I can do.
+* LOADER SYNTH: Ah, delightful! I can't wait to add this to my personal display down at Galleria Guardinane.
+* MAGUS: [befuddled] ...Uh, sure, all right. I got more where that came from, any time you want to help out!
+* LOADER SYNTH: [already walking away] Oh, I expect one will be more than enough. Thank you, though!
 
-MAGUS: ...Huh.
+*Magus folds his arms, not sure what to make of this.*
 
+* MAGUS: ...Huh.
 
+-----
 
-Horizontal wipe to: A building, a tower of coiled ribbon around a silver core. Large bay windows allow fading evening light to pass through, and show fragmented glimpses of a massive alien-cherry-blossom tree in the center of the building, in full bloom. Slowly pan down; Magus is outside, walking towards it. A sign identifies it in some alien language, but it's subtitled for us: "Polaris".
+*Horizontal wipe to: A building, a tower of coiled ribbon around a silver core. Large bay windows allow fading evening light to pass through, and show fragmented glimpses of a massive alien-cherry-blossom tree in the center of the building, in full bloom. Slowly pan down; Magus is outside, walking towards it. A sign identifies it in some alien language, but it's subtitled for us: "Polaris".*
 
-Magus pushes the doors open, with a gentle mechanical whine that implies you're supposed to let them automatically open. Full shot of the tree, petals falling; the tree is surrounded with enough to imply it's stayed in this state for a while. Inside, this is half a library and half a workshop-- there are smaller-frame synths tucked into alcoves with books, or bent over tables and tinkering with small machines.
+*Magus pushes the doors open, with a gentle mechanical whine that implies you're supposed to let them automatically open. Full shot of the tree, petals falling; the tree is surrounded with enough to imply it's stayed in this state for a while. Inside, this is half a library and half a workshop-- there are smaller-frame synths tucked into alcoves with books, or bent over tables and tinkering with small machines.*
 
-[BGM: You'll Always Find Your Way Home ~ Blue Arcadia: The Polaris Building (Wandering Soul - .hack//Versus)] https://www.youtube.com/watch?v=IyvwHjGUGkI
+[[BGM: You'll Always Find Your Way Home ~ Blue Arcadia: The Polaris Building (Wandering Soul - .hack//Versus)]](https://www.youtube.com/watch?v=IyvwHjGUGkI)
 
-Magus walks up one of the two curved staircases, sparing a passing glance over at one table, where a rusted and grease-coated synth with a humanoid face is sitting across from one with gold trim on pearl plating. At the top, there's a small synth sitting at a dark wooden desk, and matching doors behind it. It's wearing glasses over a featureless matte white faceplate.
+*Magus walks up one of the two curved staircases, sparing a passing glance over at one table, where a rusted and grease-coated synth with a humanoid face is sitting across from one with gold trim on pearl plating. At the top, there's a small synth sitting at a dark wooden desk, and matching doors behind it. It's wearing glasses over a featureless matte white faceplate.*
 
-Magus casually steps around the desk and just opens the door. The glasses-synth stands up from its desk, trying to interject a word, but Magus just says something like "look, I'm late for my appointment" without even pausing.
+*Magus casually steps around the desk and just opens the door. The glasses-synth stands up from its desk, trying to interject a word, but Magus just says something like "look, I'm late for my appointment" without even pausing.*
 
-The room beyond is cluttered, but clean-- stacks of books litter the floor, pushed to the side to make a small path to the desk at the back of the room. In front of the desk stands Marlow-- she's wrapped in either robes or desert-wanderer-style bandages from head to toe, and her face is a smooth plate with unmoving glowing yellow eyes that pulsate faintly when she talks. She's anxiously fidgeting with the corner of a book.
+*The room beyond is cluttered, but clean-- stacks of books litter the floor, pushed to the side to make a small path to the desk at the back of the room. In front of the desk stands Marlow-- she's wrapped in either robes or desert-wanderer-style bandages from head to toe, and her face is a smooth plate with unmoving glowing yellow eyes that pulsate faintly when she talks. She's anxiously fidgeting with the corner of a book.*
 
-Marlow waves off the glasses-synth, who bows out apologetically. Magus lets the door shut, then tugs on it to make *sure* it's locked, before he says so much as a single word.
+*Marlow waves off the glasses-synth, who bows out apologetically. Magus lets the door shut, then tugs on it to make *sure* it's locked, before he says so much as a single word.*
 
-MAGUS: [smiling politely, a little nervous, joking but not joking] So, are you gonna actually give this whole deal your approval, or are you gonna tell me that half the city's wasted the last six months? [waving a finger off to the side] Because if it's that second one, you may as well just rip the adhesive medical strip off right now.
-MARLOW: That depends on what you tell me.
+* MAGUS: [smiling politely, a little nervous, joking but not joking] So, are you gonna actually give this whole deal your approval, or are you gonna tell me that half the city's wasted the last six months? [waving a finger off to the side] Because if it's that second one, you may as well just rip the adhesive medical strip off right now.
+* MARLOW: That depends on what you tell me.
 
-Marlow turns briefly away, to set down her book on the corner of her desk.
+*Marlow turns briefly away, to set down her book on the corner of her desk.*
 
-MARLOW: I've heard some concerning things about your plans for the arena.
-MAGUS: Uh, what kind of concerning? I thought we already settled this-- there's precedent for combat sports, Exime even showed--
-MARLOW: You *know* that's not what I mean.
-MAGUS: [seemingly genuine] ...Is it not?
-MARLOW: Tell me about this "hole-punch" of yours.
+* MARLOW: I've heard some concerning things about your plans for the arena.
+* MAGUS: Uh, what kind of concerning? I thought we already settled this-- there's precedent for combat sports, Exime even showed--
+* MARLOW: You *know* that's not what I mean.
+* MAGUS: [seemingly genuine] ...Is it not?
+* MARLOW: Tell me about this "hole-punch" of yours.
 
-Magus suddenly understands the magnitude of trouble he's in.
+*Magus suddenly understands the magnitude of trouble he's in.*
 
-MAGUS: Oh. *That's* what you're... Right. Yeah, that makes sense.
+* MAGUS: Oh. *That's* what you're... Right. Yeah, that makes sense.
 
-Marlow pointedly says nothing. She just stares at him, waiting.
+*Marlow pointedly says nothing. She just stares at him, waiting.*
 
-MAGUS: Right. You know aurora theory, right?
-MARLOW: [slightly amused by the question, but restraining it] I do, yes.
-MAGUS: Yeah. So, similar things have similar aurora, and you can bridge that. Blur two similar locations together for a second, and cross between worlds. But you can only really carry across one person at a time, so, it's basically limited to... I don't know, five people. Probably ten or so at most.
-MARLOW: And how are you planning to use this as part of your project?
-MAGUS: Well, uh, I hadn't really decided that. It's still very experimental. I only did the first successful test a few days ago--
-MARLOW: You've already used it?!
+* MAGUS: Right. You know aurora theory, right?
+* MARLOW: [slightly amused by the question, but restraining it] I do, yes.
+* MAGUS: Yeah. So, similar things have similar aurora, and you can bridge that. Blur two similar locations together for a second, and cross between worlds. But you can only really carry across one person at a time, so, it's basically limited to... I don't know, five people. Probably ten or so at most.
+* MARLOW: And how are you planning to use this as part of your project?
+* MAGUS: Well, uh, I hadn't really decided that. It's still very experimental. I only did the first successful test a few days ago--
+* MARLOW: You've already used it?!
 
-Magus pauses, not wanting to dig himself any deeper than he absolutely has to.
+*Magus pauses, not wanting to dig himself any deeper than he absolutely has to.*
 
-MAGUS: Yyyyeah. It didn't blow up or anything, if that's what you're worried about. Little smoke, sure, but that's pretty normal when I'm doin' the soldering.
+* MAGUS: Yyyyeah. It didn't blow up or anything, if that's what you're worried about. Little smoke, sure, but that's pretty normal when I'm doin' the soldering.
 
-Marlow rubs her forehead.
+*Marlow rubs her forehead.*
 
-MAGUS: [hastily] Look, I'm not planning to go parade our crew through a bunch of other worlds and start fighting anyone who looks at us funny. I just thought it'd be cool if we had the option to see some different scenery, as a backdrop. Not even talking to anyone. That's all.
-MARLOW: ...If you've already done it, then I suppose there's no point stopping your project now. But you need to understand, this kind of technology has risks beyond our comprehension. Before you do *anything* else with this, I want to know.
-MAGUS: [shrugging, smiling again] Skill issue. I comprehend it just fine. Besides, we did *way* worse than this back in the old arena days, and nothing ever happened.
+* MAGUS: [hastily] Look, I'm not planning to go parade our crew through a bunch of other worlds and start fighting anyone who looks at us funny. I just thought it'd be cool if we had the option to see some different scenery, as a backdrop. Not even talking to anyone. That's all.
+* MARLOW: ...If you've already done it, then I suppose there's no point stopping your project now. But you need to understand, this kind of technology has risks beyond our comprehension. Before you do *anything* else with this, I want to know.
+* MAGUS: [shrugging, smiling again] Skill issue. I comprehend it just fine. Besides, we did *way* worse than this back in the old arena days, and nothing ever happened.
 
-Marlow sighs and turns around. She flicks her hand, as if to dismiss Magus, and the glasses-synth opens the door impatiently.
+*Marlow sighs and turns around. She flicks her hand, as if to dismiss Magus, and the glasses-synth opens the door impatiently.*
 
-MAGUS: ...Is that your formal approval, then?
-MARLOW: Yes, yes. Go, get to work. I have a new set of arrivals to deal with.
-MAGUS: [already starting to leave, but...] Is that right. You know, you could make them my problem. Kill two birds with one stone.
-GLASSES-SYNTH: [surprised] That's a rather disgusting expression.
-MAGUS: ...You know, I'd never really thought about it before. Anyway, offer's open, I'll leave you to it.
+* MAGUS: ...Is that your formal approval, then?
+* MARLOW: Yes, yes. Go, get to work. I have a new set of arrivals to deal with.
+* MAGUS: [already starting to leave, but...] Is that right. You know, you could make them my problem. Kill two birds with one stone.
+* GLASSES-SYNTH: [surprised] That's a rather disgusting expression.
+* MAGUS: ...You know, I'd never really thought about it before. Anyway, offer's open, I'll leave you to it.
 
-Magus walks out. We see, from Marlow's side, the door slam shut. She picks up that book again, flipping through it, but she's clearly doing it more as nervous tic than actually reading.
+*Magus walks out. We see, from Marlow's side, the door slam shut. She picks up that book again, flipping through it, but she's clearly doing it more as nervous tic than actually reading.*
 
-MARLOW: ...Well, it's made its choice. All we can do now is make ours.
+* MARLOW: ...Well, it's made its choice. All we can do now is make ours.
 
-Her voice is now slightly but noticeably different, like she's dropping a lightly regal affect now that she's alone. She looks out the window at the setting sun, as if remembering something long put aside.
+*Her voice is now slightly but noticeably different, like she's dropping a lightly regal affect now that she's alone. She looks out the window at the setting sun, as if remembering something long put aside.*
 
-MARLOW: All right, newbies. Tell me *your* stories.
+* MARLOW: All right, newbies. Tell me *your* stories.
 
-She snaps the book shut, and the screen cuts to echoing black.
+*She snaps the book shut, and the screen cuts to echoing black.*
 
-
+-----
 
 Fade in high over the arena. The stands are packed with synths of various colors, eating exotic foods (show a faceplate popped up to toss a red popcorn-like object with blue dusting into a dark gap between its faceplate and chin, with no further detail) and chattering excitedly.
 
