@@ -343,6 +343,7 @@ If you need to consult this section, something has gone delightfully wrong. Good
 
 * If the kode and the in-engine descriptions of a skill differ, the in-engine one takes precedence.
 * An **attack** is a skill that has both a listed power and a damage type other than healing. An attack with zero power is still an attack. If an attack would have negative power, it has zero power.
+* **Cancelling** a skill means stopping its resolution, and refunding TP and resources. The target can't use that skill this turn.
 * A status effect with a duration counted in turns always decrements at the _end _of your turn. A duration of **zero turns** lasts until the next time you start or end a turn.
 * Certain damage types have special properties.
     * P10 is a 10-power physical attack, representing melee punches and slashes.
@@ -350,6 +351,9 @@ If you need to consult this section, something has gone delightfully wrong. Good
     * M10 is a 10-power magical attack, representing magic and metaphysical damage.
     * H10 is 10-power healing. Healing always hits, and can’t crit.
     * F10 is a fixed 10-power attack. Fixed damage always deals exactly that value.
+* Stat Up/Down statuses can only go as high as III.
+	* If you'd inflict over III, like with an Arbiter skill, it spills over onto other stats.
+	* For example, Power Up VII might add Power Up III to you, Defend Down II to the target, Guard Up I to you, and Power Up I to a random ally, with the exact combination of levels depending on the characters involved.
 * Quirks of Downed:
     * When Downed, you lose all statuses, including Limit Statuses. Any Delay actions waiting to resolve are also cancelled.
     * While Downed, your stats are reduced by 25%, your base TP is reduced by 1, and your speed is slightly reduced. If your entire team is Downed at the same time (or otherwise unable to take actions), your team loses.
