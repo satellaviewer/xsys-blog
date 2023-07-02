@@ -22,9 +22,11 @@
 	* Arbiter: Call Spirit's wait is now 4x the total rank (up from 2x).
 	* Arbiter: Explicitly excluded Polymerized cards from Call Spirit.
 	* Arbiter: Generally nerfed the drop table for Calling Cards, making high-value cards less likely.
+	
 ### Ref Changes
 * Added /resetqueue (to clear the queue), /queuetarget (to change the target of an existing hit), and /queueadd (to add a hit without a roll)
 * Added /targetasuser (/tu) to temporarily assume a new skill-user without having to /turn.
+
 ### Misc
 * Added support for image attachments in Discord; they now post as image-links on other connections.
 * Fixed inconsistent naming: "Dodge Up/Down" was also called "Evade Up/Down" in some places. Since "Dodge Up/Down" and the already-existing "Defend Up/Down" look similar at a glance, unified this as "Evade Up/Down" for clarity.
