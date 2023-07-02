@@ -345,6 +345,7 @@ If you need to consult this section, something has gone delightfully wrong. Good
 * An **attack** is a skill that has both a listed power and a damage type other than healing. An attack with zero power is still an attack. If an attack would have negative power, it has zero power.
 * **Cancelling** a skill means stopping its resolution, and refunding TP and resources. The target can't use that skill this turn.
 * A status effect with a duration counted in turns always decrements at the _end _of your turn. A duration of **zero turns** lasts until the next time you start or end a turn.
+	* Similarly, "once per turn cycle" cooldowns reset the next time you start a turn.
 * Certain damage types have special properties.
     * P10 is a 10-power physical attack, representing melee punches and slashes.
     * R10 is a 10-power ranged attack, representing guns and explosions.
