@@ -16,12 +16,12 @@
 	* Added basic action "Dab" to consume TP if necessary.
 	* Updated Boosted CT gimmick: technically, it's not actually possible to roll 20 CT, so it now reads "between 1 and 19." No mechanical change.
 	* Explicitly clarified that "once per turn cycle" mechanics reset at the start of your turn.
-	* *Decider:* Chaingun now no longer inflicts CT damage (down from "CT damage equal to damage").
-	* *Wrathguard:* Because damage is now rolled on resolve, Pommel Strike now also applies its Power Down to the triggering attack.
-	* *Arbiter:* Cross-Summon is now an attack, because Arbiter didn't actually have one.
-	* *Arbiter:* Call Spirit's wait is now 4x the total rank (up from 2x).
-	* *Arbiter:* Explicitly excluded Polymerized cards from Call Spirit.
-	* *Arbiter:* Generally nerfed the drop table for Calling Cards, making high-value cards less likely.
+	* **Decider:** Chaingun now no longer inflicts CT damage (down from "CT damage equal to damage").
+	* **Wrathguard:** Because damage is now rolled on resolve, Pommel Strike now also applies its Power Down to the triggering attack.
+	* **Arbiter:** Cross-Summon is now an attack, because Arbiter didn't actually have one.
+	* **Arbiter:** Call Spirit's wait is now 4x the total rank (up from 2x).
+	* **Arbiter:** Explicitly excluded Polymerized cards from Call Spirit.
+	* **Arbiter:** Generally nerfed the drop table for Calling Cards, making high-value cards less likely.
 	
 ### Ref Changes
 * Added /resetqueue (to clear the queue), /queuetarget (to change the target of an existing hit), and /queueadd (to add a hit without a roll)
