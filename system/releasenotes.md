@@ -1,5 +1,32 @@
 # Release Notes
 
+## Known Issues
+* If Stop has a duration in ticks, the affected unit disappears from turn orders.
+
+## 1.0.1b
+
+### Gameplay Changes
+* Temporarily disabled Correspondent due to design issues identified in the channel.
+* Smash rate changed to 5% (up from 1%).
+* Single-stat statuses now correctly do not merge with multi-stat statuses (like P-ATK Up with Power Up). These bonuses stack multiplicatively.
+* Balance changes:
+	* **Arbiter**: Added more callcards, and added a kode page to view them (see top navigation).
+	* **Arbiter**: Cross-Summon is now an attack, and repeatable.
+	* **Wrathguard**: Salute's duration is now five ticks (up from two).
+	* **Profaner**: Infinity Rush buffed: accuracy 95% (up from 80%) and added the property "if you Down your target, you can choose another target".
+	* **Bouncer**: Fixed a design oversight preventing Rebound from activating when dodging attacks.
+
+### Ref Changes
+* Improved backend handling of multiple identical items: stacks of items can now be autocompleted.
+* Added /dt to manually select a damage type.
+* Fixed several issues related to multi-word class names.
+
+### Misc
+* Multiple items now show as a stack.
+* Statuses now properly show their durations in "!status Player".
+* Boss hidden HP now properly rounds to showing "1%" when between 1 and 5%.
+* Fixed an issue with basic accuracy showing up on non-attack skills.
+
 ## 1.0.1
 
 ### Gameplay Changes
