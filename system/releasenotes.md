@@ -11,7 +11,7 @@
 * Single-stat statuses now correctly do not merge with multi-stat statuses (like P-ATK Up with Power Up). These bonuses stack multiplicatively.
 * Balance changes:
 	* **Arbiter**: Added more callcards, and added a kode page to view them (see top navigation).
-	* **Arbiter**: Cross-Summon is now an attack, and repeatable.
+	* **Arbiter**: Cross-Summon is now repeatable.
 	* **Wrathguard**: Salute's duration is now five ticks (up from two).
 	* **Profaner**: Infinity Rush buffed: accuracy 95% (up from 80%) and added the property "if you Down your target, you can choose another target".
 	* **Bouncer**: Fixed a design oversight preventing Rebound from activating when dodging attacks.
