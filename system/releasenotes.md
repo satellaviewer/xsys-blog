@@ -3,7 +3,24 @@
 ## Known Issues
 * If Stop has a duration in ticks, the affected unit disappears from turn orders.
 
+## 1.0.1c
+A couple new features designed to make the ref interface a little bit smoother.
+
+### Gameplay Changes
+* Speed is now visible in class data.
+	* I didn't actually realize this wasn't already the case until someone mentioned it.
+* The resolve queue now caches both power and damage type, which fixes a design flaw where Reactions that interject a single hit (like Gear Bloom) might overwrite the triggering attack's power or damage type, if not very carefully resolved.
+	* Thanks to Lana for asking questions which made me realize this could happen!
+
+### Ref Changes
+* Added /meter [player] [modifier], as a shorthand for /gedit [player] [gimmick name] [modifier].
+	* If the player only has one gimmick that's a subtype of AbstractMeterGimmick, it'll pass its arguments to that gimmick.
+	* ...Which means, if you only have your class's meter, this is easy shorthand to edit your meter value.
+* Added advanced meter parsing.
+	* Rather than only being able to set a new value, you can now use syntax like +30 to add, -30 to subtract, or =30 to set a fixed value.
+
 ## 1.0.1b
+The second half of all the changes that shook out of the test battle-- these took a little more work and thought to put together.
 
 ### Gameplay Changes
 * Temporarily disabled Correspondent due to design issues identified in the channel.
@@ -28,6 +45,7 @@
 * Fixed an issue with basic accuracy showing up on non-attack skills.
 
 ## 1.0.1
+The first half of changes that shook out of the first test battle! Big thanks to everyone who played and gave feedback, particularly about the accuracy and damage calculations.
 
 ### Gameplay Changes
 * Completely revised the accuracy and damage calculations. Big thanks to Amara for a lot of help on both the design and implementation!
