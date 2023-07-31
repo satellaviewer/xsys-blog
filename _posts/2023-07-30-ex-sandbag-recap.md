@@ -7,7 +7,7 @@ tags: recap
 
 We only had four to start, so I awarded the hero team an Imperial Seal: one intervention of their choice, if the entire team agreed.
 
-Rue warped all over the field, blocking everything with Guard Chase, while dragoshi swept the field clear with Ortho Sabarta and Dust Sweep, as well as using Convergent Ray to pierce Back Line! The heroes dealt a *lot* of damage to the targets and cut them down as fast as Sandbag could prop them up...
+Rue warped all over the field, blocking everything with Guard Chase, while Dragoshi swept the field clear with Ortho Sabarta and Dust Sweep, as well as using Convergent Ray to pierce Back Line! The heroes dealt a *lot* of damage to the targets and cut them down as fast as Sandbag could prop them up...
 
 *But*, with only four heroes, every time they finished cutting down the targets... there wasn't any time left to damage the boss itself!
 
