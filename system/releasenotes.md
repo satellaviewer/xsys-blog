@@ -3,6 +3,61 @@
 ## Known Issues
 * If Stop has a duration in ticks, the affected unit disappears from turn orders.
 
+## 1.0.2
+
+### Gameplay Changes
+* New Features:
+	* **Supporters**. More information will become available soon.
+	* New Kode class: **Sharker**.
+* Statuses:
+	* **Profaner**: Corrupted is now a ranked status (10% HP reduction per rank, up to 5).
+		* Regen now counteracts Corrupted, Poison, and Burn, and vice versa. Regen, Poison and Burn statuses are not normally ranked.
+	* **Profaner**: Corrupted starting duration is now 10 ticks (down from 30).
+	* **Profaner**: White-Gold Rose is now a status that boosts PACC and MATK by 10 (changed from fixed +10% physical accuracy and +10 magical power).
+		* This change should be more or less the same, and require substantially fewer command entries from the ref.
+	* **Wrathguard**: Added the "Cover" status, which redirects all damage to a specific ally, and reduces it by a small amount (currently 3%).
+	* Barrier's chance of absorbing all extra damage on break is now 30%, down from 50%.
+	* Fixed Note status clearing at end of turn.
+* Balance changes:
+	* **Arbiter**: Call Spirit now can target Polymerized cards.
+	* **Arbiter**: Cross-Summon and Polymerize now allow using one card from your hand and a randomly-drawn one.
+	* **Arbiter**: Summon Supporter CT damage decreased (5/rank with cap of 30; down from 10/rank up to 3 then 5/rank past that, and uncapped).
+	* **Arbiter**: Clarified that Summon Assist and Summon Defender are the summon's choice, not the caster's.
+	* **Profaner**: Red Queen Arrival is now a fixed-damage effect (changed from "same damage type as your first attack"), to reduce manual resolution work.
+	* **Profaner**: Paying a cost with Hunger for Destruction now inflicts a stack of Corrupted (previously Defend Down).
+	* **Profaner**: Reworked clearing Exhaust.
+		* Now: "Black-Gold Thorn" kode skill added, consuming two Shadow Photons to clear Exhaust.
+		* Previously: Shadow Photon item consumed to clear Exhaust, but inflict Corrupted.
+		* Combined with the changes to Hunger for Destruction, this is mostly the same, with more tactical options. (Also, all class-critical rules text is now in the kode, not obscured in the item description.)
+	* **Wrathguard**: Removed alternate firing mode on Zornhau.
+		* Now: "Delay 4. While Delaying with this, you can't use Reactions."
+		* Previously: "Exhaust, or consume Breath and add Breath/4 power"
+		* Choosing between these firing modes was not particularly interesting, and really, it's not that appealing to expend these kinds of resources on offense anyway. This has only one firing mode, so it's faster to resolve, and should help bring out the "commit to the attack" mega-greatsword theming a little better.
+	* **Wrathguard**: Salute now gives Power Up (from Hit Up), because nobody used it.
+	* **Wrathguard**: Deep Breath now has base power Breath/3 (down from Breath/2).
+		* The new DEF-based healing-power scaling was causing this move to wind up way more powerful than intended-- which is a big problem when it essentially acts as a rebate on damage taken!
+	* **Wrathguard**: Completely revised Guard Chase.
+		* Now: When an enemy attacks, choose a target who's been hit, and grant them the Cover status. Until the end of the turn, you take all damage for that unit, slightly reduced.
+		* Previously: [50%]. When an enemy attacks, choose a target who's been hit. On success, the hit is cancelled; on failure, you take the damage instead.
+		* Even a 50% chance to nullify one hit on each attack turned out to be much more of a balance problem than I expected-- I figured bosses swinging three-target two-hit attacks would make that not particularly threatening. This new version doesn't reduce damage; it just moves it around. That also means Rising Strike's identity as the big "defensive cancel" move becomes more separate and clear, and be another source of that "commit to your decisions" mega-greatsword theming.
+	* F-Groove now collects four times more Aura on each failed roll, charging substantially faster.
+
+### Development Changes
+* New abstract Gimmick class: "AbstractRankedStatusGimmick," which has the ability to rank up or down.
+	* This more clearly separates the hierarchy:
+		* Gimmick
+		* AbstractStatusGimmick (containing a duration)
+		* AbstractRankedStatusGimmick (containing a duration and a rank)
+		* AbstractStatModStatusGimmick (containing a duration, rank, and list of affected stats)
+		* PowerUp (a specific implementation of AbstractStatModStatusGimmick)
+	* The upshot of all of this: if you work with XSYS code, it's easier to make ranked statuses now.
+
+### Misc
+* Fixed a bug where healing or being healed in certain contexts would expend H-Groove adrenaline.
+* Refined and improved logic around finding partial skill names.
+* All player input/output on script commands now always transfers across, per player feedback.
+* Tequila Sunset's description now no longer clips onto a second line on IRC.
+
 ## 1.0.1c
 A couple new features designed to make the ref interface a little bit smoother.
 
