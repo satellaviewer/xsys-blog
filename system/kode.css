@@ -1,0 +1,77 @@
+    body {
+        font-family: monospace;
+        font-size: 16px;
+        background-color: black;
+        color: white;
+     }
+     .container {
+        margin: auto;
+     }
+
+     h1, h2 {
+        margin: 0 0 10px 0;
+        text-align: center;
+     }
+
+     ul a {
+        color: cyan;
+     }
+     .skill > strong {
+        color: #fee7bb;
+     }
+
+    .classblock {
+        width: 850px;
+        background-color: #402f50;
+        padding: 10px;
+        margin: 15px auto;
+        border: grey solid;
+    }
+    .writeup {
+        border: grey solid;
+        padding: 10px;
+    }
+    .writeup > span:first-of-type {
+        font-size: 40px;
+    }
+    .writeup {
+        font-size: 18px;
+        text-align: center;
+    }
+    .skill {
+        padding: 5px 0;
+    }
+
+    .fg0, .fg00 { color: #D3D7CF; }
+    .fg1, .fg01 { color: #2E3436; }
+    .fg2, .fg02 { color: #3465A4; }
+    .fg3, .fg03 { color: #4E9A06; }
+    .fg4, .fg04 { color: #CC0000; }
+    .fg5, .fg05 { color: #8F3902; }
+    .fg6, .fg06 { color: #5C3566; }
+    .fg7, .fg07 { color: #CE5C00; }
+    .fg8, .fg08 { color: #C4A000; }
+    .fg9, .fg09 { color: #73D216; }
+    .fg10 { color: #11A879; }
+    .fg11 { color: #58A19D; }
+    .fg12 { color: #57799E; }
+    .fg13 { color: #A04365; }
+    .fg14 { color: #555753; }
+    .fg15 { color: #888A85; }
+
+    .bg0, .bg00 { background-color: #D3D7CF; }
+    .bg1, .bg01 { background-color: #2E3436; }
+    .bg2, .bg02 { background-color: #3465A4; }
+    .bg3, .bg03 { background-color: #4E9A06; }
+    .bg4, .bg04 { background-color: #CC0000; }
+    .bg5, .bg05 { background-color: #8F3902; }
+    .bg6, .bg06 { background-color: #5C3566; }
+    .bg7, .bg07 { background-color: #CE5C00; }
+    .bg8, .bg08 { background-color: #C4A000; }
+    .bg9, .bg09 { background-color: #73D216; }
+    .bg10 { background-color: #11A879; }
+    .bg11 { background-color: #58A19D; }
+    .bg12 { background-color: #57799E; }
+    .bg13 { background-color: #A04365; }
+    .bg14 { background-color: #555753; }
+    .bg15 { background-color: #888A85; }
