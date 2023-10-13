@@ -31,7 +31,7 @@ title: "Preshow 10/12: Initial XIV"
 
 * MAGUS: Uh, hello? Is there a... Big Dendy here?
 
-*The entire building *sits upright*, arms unspooling from either side, revealing that the ship *is* his contact.*
+*The entire building SITS UPRIGHT, arms unspooling from either side, revealing that the ship *is* his contact.*
 
 * BIG DENDY: Ahh, so you're the newbie!
 
