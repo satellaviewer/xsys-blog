@@ -5,7 +5,7 @@
 
 ## 1.0.2a
 
-## Gameplay Changes
+### Gameplay Changes
 * Revised Arcanimist.
 	* Split Deploy Distaff into Deploy Distaff and Imbue Distaff.
 		* Deploy Distaff only applies the Distaff status. It's also gained "1 Anima: Make this 0 TP."
