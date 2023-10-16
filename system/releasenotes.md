@@ -3,6 +3,24 @@
 ## Known Issues
 * If Stop has a duration in ticks, the affected unit disappears from turn orders.
 
+## 1.0.2a
+
+## Gameplay Changes
+* Revised Arcanimist.
+	* Split Deploy Distaff into Deploy Distaff and Imbue Distaff.
+		* Deploy Distaff only applies the Distaff status. It's also gained "1 Anima: Make this 0 TP."
+		* Imbue Distaff only applies the boost statuses.
+		* This fixes a *lot* of design problems and clarity issues around how distaff-applied statuses work.
+		* I'll be watching the TP economy of this class to see if it can still accomplish what it needs to.
+	* Animate Distaff now consumes the distaff, and is now only the healing firing mode.
+		* Imbue Distaff covers the rest of the old version's firing modes, so the class's tactical options stay the same.
+	* Recall Distaff now explicitly specifies that it resets upgrades.
+	* Spindle Winding power slightly reduced (Barrier<30> down from Barrier<50>).
+	* Upgrade Distaff wording clarified.
+	* Arcane Needle now defaults to the higher power, for ease of resolution.
+	* Arcanimist skill text now does not specify that a distaff must be yours.
+* New command: !distaves (!distaff, !distaffs) lists all distaves in play and their rank.
+
 ## 1.0.2
 
 ### Gameplay Changes
