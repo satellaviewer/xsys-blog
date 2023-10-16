@@ -20,6 +20,8 @@
 	* Arcane Needle now defaults to the higher power, for ease of resolution.
 	* Arcanimist skill text now does not specify that a distaff must be yours.
 * New command: !distaves (!distaff, !distaffs) lists all distaves in play and their rank.
+* Added Pyroxene cost values to all skills for classes except Arcanimist and Correspondent (both classes not quite finalized yet).
+	* Purchasing isn't implemented yet.
 
 ## 1.0.2
 
