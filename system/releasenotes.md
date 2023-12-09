@@ -2,6 +2,60 @@
 
 ## Known Issues
 * If Stop has a duration in ticks, the affected unit disappears from turn orders.
+* When extremely long clusters of lines happen, the affected message may be rejected by Discord for being too long.
+
+## 1.0.3
+
+### New Features
+* Added L-Groove and A-Groove!
+* ANSI color support on Discord! Many thanks to Amara for letting me know this exists, and Herringway for pointing me at the 39/49 "color-reset" codes.
+	* Discord only supports seven colors, so it's definitely not as pretty as IRC text.
+	* For the moment, bold and italic aren't supported. This is because Discord actually only supports a subset of ANSI, and that means the only way to remove bold or italic is to reset formatting entirely-- and *that* means a substantially more complex parser that can reach back and get the last valid color-code, and I'm not willing to write that right now.
+	* Discord's ANSI formatting parser is also fairly buggy, especially around underlines; sometimes an underline or color will just appear out of nowhere. I don't think there's anything I can do about this, but swapping to another server tab for a sec will usually fix it.
+* Engine support for hazard sets and hazards!
+	* There's no content in this yet, but soon...
+* Engine support fØmÛ:ïÝé(±é-dÍà²8Ñzx9¦v {CÄP2V)#óO¤É0vYÔg[#öh£çwßOÍ{ÀnÐ ¨ï0ÔaãþÂ#[ö7kâñµ]oÜ!
+	* &ÿ#YuõìæMõ¤È7}ÏàMÂ(õØéÛàFý÷2Ô`Wx­ôê¸µ1h §Hu8F`¼ôzpÌk?dØPb82Ð bî[8|®õä t}æ­»a nFØÈÔ7ÃÔî³¹¦xsWõI'aÇZC<>O³ 'óKÎêÓÂöß¢?n²å
+
+### Major Changes
+* Added "block" mechanic.
+	* If you roll too high on an accuracy roll against a boss, instead of missing, bosses will *block* your attack. You'll inflict 50% damage, but get no bonus effects or meter gain.
+		* For rules text that specifies "on hit," even though it inflicts damage, a block is not a hit.
+	* Attacks against heroes are unaffected; bosses can still miss you.
+* Adjusted accuracy formula.
+	* Global accuracy multiplier now 90%, down from 98%. Blocks and misses will now be slightly more frequent, hopefully making Hit and Evade statuses more interesting.
+	* Sharply boosted strength of statuses affecting ACC and EVD stats (Submerge, Hit Up, Evade Up, stat ups, etc); now roughly 10% modifier per level.
+
+### Gameplay Changes
+* H-Groove: Spending Adrenaline now reduces Adrenaline gain by 50% until the end of your turn.
+	* Once you had a full limit charge, it was easy to spend it, deal a ton of damage, and regenerate almost your entire limit gauge in a single turn.
+* Wrathguard: Changed Salute to Hit Up for 30 ticks (changed from Power Up for 5 ticks).
+	* Now that accuracy is more important, this might be more interesting.
+* Arbiter: Call Striker TP reduction chance now 15% per rank (down from 20%). This has been a liiiiittle too consistent with only base cards.
+* Arcanimist: Starting Anima is now 7 (up from 3).
+	* This is intended to evoke the "healer who runs out of mana" feeling that many MMOs have, encourage more intense and elaborate play of the class... and ease TP economy issues near the start of the fight, when you need to be doing lots of distaff crafting. It's also turned out pretty impractical to take an Anima-positive turn. Plus, it's lore-compliant with FFXIV 1.0!
+* Arcanimist: All skills other than Arcane Needle are now repeatable.
+	* This class was designed before the unique-skills rule anyway (as you might guess from the impossible "first time you cast this each turn" clause that still hung around on Arcane Needle). Hopefully, removing this restriction will make the class a little more smooth.
+* Sharker: Major class rework.
+	* Paint now decays every 1-3 ticks (down from a fixed 5 ticks).
+	* Super Jump is now Slosher Skirmish. Rather than consuming Paint, base healing power is based on Paint value, with an extra target at 8.
+	* A new skill named Super Jump is now available, which restores Ink.
+	* Charger is now Anchor Charge. Rather than consuming Paint, it's a two-hit attack with variable delay.
+	* Zimmis is now Zimmis Ambush: accuracy down (90% to 80%), hits up (3 to 5), now repeatable for 10 Ink.
+	* Clash Blaster now targets 3 enemies (up from 2).
+	* Splashdown cost is now 25 Ink (up from 20).
+	* Cruisin' Cooler is now Cruzin' Cooler, for accuracy. No mechanical change.
+* Sharker: Adding multiple ranks of Paint at once now applies all, rather than just the max of both sides plus one (3+4=7, rather than 3+4=5).
+	* This was leftover code from pre-production, when buffs could be up to rank 10, instead of rank 3. (It made sense back then.)
+
+### Misc
+* Fixed a critical bug where Sharker's Submerge set all EVD stats to single-digits.
+* Added a safety check for skills with power but no accuracy, to prevent the "roll against zero" situation.
+* Templating: Magdump and a few other skills now specifically use the keyword "repeatable."
+* Templating: Narrowed Gear Bloom's activation from "at any time" to "when an action is declared or finishes resolving," to prevent potential rules issues.
+* Fixed a bug where Paint stack count wasn't visible in !status.
+* !status format expanded to multiple lines because its existing form is just unreadable.
+
 
 ## 1.0.2a
 
