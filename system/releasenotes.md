@@ -4,6 +4,15 @@
 * If Stop has a duration in ticks, the affected unit disappears from turn orders.
 * When extremely long clusters of lines happen, the affected message may be rejected by Discord for being too long.
 
+## 1.0.3a
+
+### Gameplay Changes
+* Decider: Replaced AS-MIS with Volcanic Howitzer. (To be blunt, AS-MIS is not interesting enough to be that complicated. Also, I get enough [Warmonger's Diplomacy](https://fabdb2.imgix.net/cards/printings/DTD230.png) as it is, thanks.)
+
+### Development Changes
+* Added internal support for arena changes.
+* Added internal support for secondaries and auxes.
+
 ## 1.0.3
 
 ### New Features
