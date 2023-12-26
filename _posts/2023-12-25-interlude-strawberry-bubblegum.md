@@ -1,6 +1,6 @@
 ---
 tags: story, arc 1
-title: "Strawberry Bubblegum"
+title: "Interlude 12/25: Strawberry Bubblegum"
 ---
 *Open on the streets of Blue Arcadia, outside the arena. A few synths are meandering in and out of the building, and a few cafes have popped up around the grounds. We're above the head of the crowd, but as we gradually pan down, one figure stands out-- a person of indeterminate gender with red hair and an equally red lab coat. Actually a person, even-- flesh tones are highly unusual. They pause outside the arena, then look up at a banner for "Coming Soon: Final Fantasy 7".*
 
