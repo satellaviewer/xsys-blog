@@ -2,7 +2,7 @@
 ---
 <ul>
   {% for post in site.posts limit:6 %}
-    <li>
+    <li class="post">
       <h2><a href="{{ post.url }}">{{ post.title }} - {{ post.date | date: '%Y-%m-%d' }}</a></h2>
       {{ post.content }}
     </li>
