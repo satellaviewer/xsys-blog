@@ -1,5 +1,5 @@
 ---
-tags: recap
+tags: recap, arc 1
 title: "Recap 12/30: Operation Hurricane"
 ---
 
