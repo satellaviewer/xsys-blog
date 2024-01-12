@@ -4,6 +4,32 @@
 * If Stop has a duration in ticks, the affected unit disappears from turn orders.
 * When extremely long clusters of lines happen, the affected message may be rejected by Discord for being too long.
 
+## 1.0.3b
+
+### Gameplay Changes
+* Added !rhero/!rboss commands for selecting random heroes and bosses.
+* Balance changes:
+	* Sharker: Properly added Boosted CT, like all other player classes.
+	* Scion: "Successor" limit status now only provides buffs to Scion Time and Scion Gear. Removing the Exhaust mechanic entirely isn't interesting, and Scion is a powerful enough class to not need particularly powerful limits.
+	* Scion: Fomel Blast now consumes 1 Voltage per extra target. This prevents Voltage gain getting completely out of control on multiple enemies.
+	* Decider: Forecast Shot System is now repeatable, but doesn't stack with itself. (Someone asked last fight, and it sounds reasonable enough.)
+	* Decider: Chaingun now hits minimum five times (up from a fixed one hit to every enemy). This gives it an actual use in single-target fights, now that it no longer has CT damage.
+	* Wrathguard: Pommel Strike now costs 10 Breath, but inflicts extra debuffs on crits and smashes. This gives a reason to not just call it for every single attack, and interacts with how Wrathguard tends to get crit fairly often under the new accuracy rules.
+	* Wrathguard: Zornhau heavily reworked. Now 80% accuracy (down from 100%), and "While Delaying, no reactions" clause replaced with "On use, gain Defend Up for 4 ticks. Add another TP to make this target all enemies."
+	* Wrathguard: Added new skill Alberhuten (a weak attack that gains a small amount of Breath).
+	* Arcanimist: Gear Bloom is now a fixed 75 healing that does not take stats into account. (This is to fix a design issue where later skills can't easily resolve before earlier ones.)
+	* Arcanimist: Added Pyroxene costs (which will only matter when shops eventually open).
+	* Arbiter: Added "Can affect multiple targets on request" clause to Summon Assist.
+	* Arbiter: Clarified that Force Reroll can react to reaction rolls, and increased minimum rolls by one.
+	* F-Groove buffed even more (curve increases to max more quickly, removed two-roll RNG).
+	* Mook CT influence increased to 6, 5, 4, 3, 2, 1 (up from 5, 5, 2, 2, 2, 1).
+
+### Misc
+* Fixed a critical bug where nonstandard IRC name colors (above 16) would cause Discord output containing that name to crash and not display.
+* Fixed a bug where turn-order preview sort for multiple units on a single tick incorrectly added Boosted CT, forcing heroes before bosses on the same tick.
+* Fixed small formatting issues with Barrier editing.
+* Added more ref quality-of-life commands (/note, /noteclear, /hp, /maxhp).
+
 ## 1.0.3a
 
 ### Gameplay Changes
