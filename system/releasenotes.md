@@ -4,9 +4,11 @@
 * If Stop has a duration in ticks, the affected unit disappears from turn orders.
 * When extremely long clusters of lines happen, the affected message may be rejected by Discord for being too long.
 
-## 1.0.3b
+## 1.0.4
 
 ### Gameplay Changes
+* Correspondent makes its triumphant return as a playable class!
+	* Use "!sigil Bee and Rose" to view specific sigils, "!sigil Accuracy 4" to search for sigils by type, and "!sigil Fight" to see what sigils a skill breaks down into!
 * Added !rhero/!rboss commands for selecting random heroes and bosses.
 * Balance changes:
 	* Sharker: Properly added Boosted CT, like all other player classes.
@@ -29,6 +31,7 @@
 * Fixed a bug where turn-order preview sort for multiple units on a single tick incorrectly added Boosted CT, forcing heroes before bosses on the same tick.
 * Fixed small formatting issues with Barrier editing.
 * Added more ref quality-of-life commands (/note, /noteclear, /hp, /maxhp).
+* Several small internal bug fixes.
 
 ## 1.0.3a
 
