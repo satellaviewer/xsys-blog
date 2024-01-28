@@ -26,8 +26,8 @@ tags: story, arc1
 * Magus in particular folds his arms, seeming only an inch from blurting out something like "make me," but he's biting his tongue for the moment.
 * MARLOW: Loa, seize their device.
 * LOA: Uh, um, ma'am, I'm not sure if you've noticed, but it's a bespoke device in a bespoke vehicle with controls from *another world*. I have no idea how to do that.
-* DR OKAZAKI: ...May I ask why?
-* MARLOW: ...I suppose. I'd like you to look at something.
+* DR OKAZAKI: ...May I at least ask *why*? That device is a massive investment of my team's time and money.
+* MARLOW: ...I suppose. Here. I'd like you to look at something.
 
 *Marlow gestures out towards the city of Blue Arcadia, close against the shore. Lights in buildings are starting to kick on as dusk settles in.*
 
@@ -43,7 +43,7 @@ tags: story, arc1
 * Marlow nods sternly.
 * MARLOW: The result would be cataclysmic. Destruction. A war of conquest, across countless worlds. And all it would take would be *one* of these devices falling into the wrong hands.
 * MAGUS: I mean, but that's only if there's a small number of these devices! World-travel *used* to be easy, and it wasn't a problem, because someone could just bring them back, like the group of heroes you have in your own city--
-* MARLOW: [suddenly irritable] And what are those innocent people supposed to do in the meantime? I've put too much work into this place, into these synths and their lives. I won't see it lost because *someone* didn't know how to leave well enough alone. Loa, figure out how to destroy this ship. Immediately.
+* MARLOW: [suddenly irritable] And what are those innocent people supposed to do in the meantime? I've put too much work into this place, into these synths and their lives. I won't see it lost because *someone* didn't know how to leave well enough alone. Loa, if you can't seize it, figure out how to destroy this ship. Immediately.
 * LOA: Um... yes, ma'am...
 * DR OKAZAKI: Hold on! ...I'll assist you in removing the world-jumping device, if you'll help us repair the ship.
 * MARLOW: ...Acceptable. Loa, see to it that they stick to these terms.
