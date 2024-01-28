@@ -1,4 +1,4 @@
- ---
+---
 title: "Interlude 01/28: Doctor Okazaki's Long Road Home"
 tags: story, arc1
 ---
