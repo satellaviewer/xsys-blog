@@ -26,7 +26,7 @@ tags: story, arc1
 * Magus in particular folds his arms, seeming only an inch from blurting out something like "make me," but he's biting his tongue for the moment.
 * MARLOW: Loa, seize their device.
 * LOA: Uh, um, ma'am, I'm not sure if you've noticed, but it's a bespoke device in a bespoke vehicle with controls from *another world*. I have no idea how to do that.
-* DR OKAZAKI: ...May I at least ask *why*? That device is a massive investment of my team's time and money.
+* DR OKAZAKI: ...May I at least ask *why?* That device is a massive investment of my team's time and money.
 * MARLOW: ...I suppose. Here. I'd like you to look at something.
 
 *Marlow gestures out towards the city of Blue Arcadia, close against the shore. Lights in buildings are starting to kick on as dusk settles in.*
