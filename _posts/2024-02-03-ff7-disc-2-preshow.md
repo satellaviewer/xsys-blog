@@ -61,4 +61,4 @@ title: "Preshow 2/3: FF7 Disc 2 - Paper Cut"
 
 That's right, this fight will be against the White Raven herself! You can see her moveset with !class White Raven. She doesn't have much HP, but she hits hard. She can drop meteors on her foes (!class Astral Debris), and if you don't deal with them quickly, they'll use Debris Burst and deal damage to the whole hero team!
 
-In addition, once the fight reaches overtime, she'll "enrage", using a limit break every turn! So, play fast, keep up the pressure, and do your best!
+In addition, once the fight reaches overtime, she'll "enrage", using a limit break every turn! So, play fast, keep up the pressure, and get Aeris her revenge!
