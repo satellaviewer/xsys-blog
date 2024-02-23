@@ -1,6 +1,6 @@
 ---
 tags: preshow, story, arc 1
-title: "Preshow 02/23: FF7 Disc 3 - "
+title: "Preshow 02/23: FF7 Disc 3 - Stairway to the Fated Fight"
 ---
 
 *With the house full and the lights dim... a banner unfurls over the stage.*
@@ -66,4 +66,4 @@ Sephiroth's class is "Messenger of Jenova," and his skillset is simple: the Fira
 
 I've also added one of his abilities from his appearance in Kingdom Hearts: the infamous "Sin Harvest!" But you'll have to show up to see what that does...
 
-The battle starts 2/23 at 7 PM Central! You definitely won't want to miss this fated fight!
+The battle starts 2/23 at 7 PM Central! You definitely won't want to miss this legendary rematch!
