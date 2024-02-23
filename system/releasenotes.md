@@ -1,8 +1,32 @@
 # Release Notes
 
-## Known Issues
-* If Stop has a duration in ticks, the affected unit disappears from turn orders.
-* When extremely long clusters of lines happen, the affected message may be rejected by Discord for being too long.
+## 1.0.4a
+
+### Gameplay Changes
+* Balance changes:
+	* Arbiter: When drawing callcards, they now get added to the inventory with the format "[S1/D2/T3]" to make it clearer at a glance what each number means.
+	* Arbiter: Call Supporter and Call Striker have had their Dangerous modes switched with their Tactical ones, because I keep resolving them that way anyway.
+	* Arbiter: Added alternate firing mode for Gate-Crosser, allowing fusing cards two at a time without consuming them. This results in no mechanical change, it's just for fun.
+	* Arbiter: Made Polymerization repeatable, because it's fun and I like writing fusions.
+	* Arbiter: Clarified Force Reroll interaction with multi-hit attacks.
+	* Profaner: Rephrased Convergent Ray effect and added a "add Delay 6" clause to it. This more accurately reflects the original and makes having to resolve the more complicated effect more rare and deliberate.
+	* Profaner: Tyrant Strike now inflicts Defend Down II on a smash.
+	* Profaner: Removed Delay from Pure White Darkness, and added "on hit, inflict Stop for 4 ticks and [old effect]". Given how much of Profaner relies on until-end-of-turn buffs, it doesn't feel right that its limit shouldn't get to benefit from those too.
+	* Wrathguard: Removed clause "Use only while Exhausted" from Pommel Strike, because it's not really contributing anything.
+	* Wrathguard: Removed Prepare Reaction. Removed Time of the Hand, and renamed the old Time of the Foot to Time of the Hand. The connecting idea of "be able to violate the rule about reacting multiple times to the same skill" hasn't been particularly interesting in practice.
+	* Wrathguard: Added experimental new reaction, Rally the Rearguard.
+	* F-Groove: Reduced Limit Turn award to +1 TP (down from +2 TP). This is purely so turns don't take too long-- and with most skills non-repeatable, an extra TP past the fourth isn't usually that good anyway.
+* Added Haste and Slow: opposed three-rank statuses that increase or decrease speed by one point per rank.
+	* There are no current sources of these. There might never be. But they're in the engine now.
+
+### Misc
+* Fixed a known issue where if Stop has a duration in ticks, the affected unit disappears from turn orders.
+* Fixed a design oversight where some commands, like !stats, echoed their output locally, disrupting lines being typed.
+* Fixed various minor formatting issues.
+* Fixed a known issue where when extremely long clusters of lines happen, the affected message may be rejected by Discord for being too long.
+* Added a test mitigation for a known issue where Javacord would periodically warn about a full message cache on the prod environment.
+* Fixed an esoteric issue where Poison opposed (and could clear) Poison.
+* Timers now only message every 60 seconds until the 30-second mark.
 
 ## 1.0.4
 
