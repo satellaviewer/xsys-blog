@@ -1,5 +1,24 @@
 # Release Notes
 
+## 1.0.5
+
+### Gameplay Changes
+* Defeating the job class guardian "Safir Sephiroth" has unlocked the damage class "Rosecutter!"
+	* A few details have been changed based on feedback from the event version:
+	* Blizzaga Crown now gains 10% accuracy per crush rather than Defend Down.
+	* Protega Parry now explicitly consumes a materia.
+	* With a Steel Chair has lost its "you may repeat this" clause due to balance concerns.
+	* Pearlega Answer is now correctly target-code 1A, because it's a healing skill.
+* Both Rosecutter and Correspondent have gained Pyroxene costs.
+* Balance changes:
+	* Profaner: Violence Step success rate reduced from [100%] to [50%]. This ability keeps being entirely too powerful in specific edge-case situations.
+	* Profaner: Antiphoton gauge limit increased from 250 to 350. Shadow Photons are far easier to get than intended, and this ought to make choices with them more meaningful, rather than just starting every turn with White-Gold Rose.
+	* Wrathguard: Nachreisen now explicitly says it promotes a crit to a smash.
+	
+### Misc
+* Skills now have prefixes for their type (R, S, M, LB, etc), so as not to rely purely on color.
+
+
 ## 1.0.4a
 
 ### Gameplay Changes
