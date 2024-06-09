@@ -2,7 +2,7 @@
 
 ## 1.0.5a
 
-## Balance Changes
+### Balance Changes
 * Various adjustments to Rosecutter, mostly to rein in the top end in high-materia situations.
 	* Firaga Impulse's Defend Down is now Rank II for 10 ticks (down from Rank III for 30).
 	* Blizzaga Crown's Crush effect is now Evade Down/Hit Up for 10 ticks (changed from +10% accuracy).
