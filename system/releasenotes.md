@@ -1,5 +1,32 @@
 # Release Notes
 
+## 1.0.5a
+
+## Balance Changes
+* Various adjustments to Rosecutter, mostly to rein in the top end in high-materia situations.
+	* Firaga Impulse's Defend Down is now Rank II for 10 ticks (down from Rank III for 30).
+	* Blizzaga Crown's Crush effect is now Evade Down/Hit Up for 10 ticks (changed from +10% accuracy).
+	* Ultima Dominion and Graviga Abyss are now 45 base power (down from 60), but jump up to 90 when crushed.
+		* This brings them closer into line with the Firaga/Blizzaga/Thundaga trio, valuing a crush at roughly 20 power and accounting for the tactical value of the special on-hits.
+	* Pearlega Answer's Defend Up II is now 8 ticks (down from 30).
+	* Omnisphere Gatling's power changed to 8 (down from 10) and special bonus changed from "base power +2" to "extra P40 hit".
+		* For as much work as this skill did in the last fight, it's actually been noticeably below rate in normal five-materia situations, especially compared to Infinity Rush when it requires substantially more setup.
+		* This makes the skill exactly equal to Infinity Rush at five materia and clamps how out-of-control it can get at materia counts past ten.
+		* Plus, big finisher explosions are fun.
+	* Drainga Devour and Unmake now explicitly create "unique materia" which may have special properties-- or be "demimateria" that convert at a ratio, for mook fights.
+		* This was always the design intent; I'm just being clearer about it.
+	* Rephrased Unmake to clarify that it only ever creates *one* unique materia, even if you land multiple kills via effects like Black Hole.
+* Wrathguard: Removed Breath cost from Pommel Strike. Instead, it's now on an eight-tick cooldown.
+	* Loathe as I may be to solve this with such a dull answer, competing for Breath with their major skill Rising Strike was not creating a fun playstyle, and this is effectively an automated "once per turn cycle". We'll try this for a bit.
+* Arcanimist: Clarified that Recall Distaff *does* actually give you back the distaff.
+* Decider: Clarified that Chaingun *attacks* five times, but does not keep attacking until you get five hits.
+* Profaner: Slightly decreased economy efficiency.
+	* Removed "clear exhaust on gauge fill" from the Antiphoton gauge.
+	* Lowered Antiphoton gain when allies down enemies (was 90, now 45).
+	* This class has continued to have *way more Shadow Photons* than I expected or intended. These changes should continue to gently coax it back into line.
+* Profaner: Pure White Darkness accuracy is now 100% (down from [100%]).
+	* It's less interesting to award on-hit Stop if the hit is guaranteed.
+
 ## 1.0.5
 
 ### Gameplay Changes
