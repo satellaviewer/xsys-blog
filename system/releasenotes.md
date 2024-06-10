@@ -1,5 +1,17 @@
 # Release Notes
 
+## 1.0.5b
+
+### Balance Changes
+* Further adjustments to Rosecutter, mostly to make out-of-turn skills more balanced and interesting.
+	* With a Steel Chair's power lowered to fixed 10 damage, but it redraws the materia.
+		* 40 per materia was way higher than baseline materia value, and could have become a "boring but good numbers" objectively-correct option. This heads that off.
+	* Miraga Dodge replaced with Miraga Phantasm, which redraws a materia and rerolls a random effect, once per turn cycle.
+		* This helps broaden the class's support abilities and makes it a little less solitaire.
+	* Protega Parry and Miraga Dodge now share a cooldown, for technical reasons.
+	* Ultima Dominion's Crush effect is now a 0 TP action to activate, so that it doesn't get absorbed by a small hit like the Omnisphere Gatling finisher.
+	* Graviga Abyss's Crush effect now reduces total power of the target's next attack by half, to be useful in more situations.
+
 ## 1.0.5a
 
 ### Balance Changes
