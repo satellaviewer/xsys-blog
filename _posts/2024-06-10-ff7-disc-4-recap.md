@@ -13,7 +13,7 @@ Wait, is this a shmup segment?
 
 Aeris supported the heroes with the "Seven Force" skillset, granting them a Star-Fox-style lock-on combo shot to deal with the waves of weak enemies.
 
-The heroes had a different strategy, however. Most of the hero party softened up the mook Weapons one by one or stacked debuffs on the boss, and some coordination between Aerith's Target Lock and Dragoshi's Black Hole allowed Aerith to sweep through most of the field, chain-devouring Weapons to stock up an absurd amount of materia.
+The heroes had a different strategy, however. Most of the hero party softened up the mook Weapons one by one or stacked debuffs on the boss, and some coordination between Aerith's Target Lock and Dragoshi's Black Hole allowed Aerith to sweep through most of the field, chain-devouring Weapons to stock up an absurd amount of materia. oakandlinden also did an excellent job keeping the damage dealers upright, burning through Anima at just the right times.
 
 As soon as the mid-boss of the shmup stage (Nightmare Zeromus) appeared, the entire team was able to race through it-- a Marisa/Kirby callcard fusion, a few sword-smashes from Rue, a bunch of bullets from Misty, and a flurry of rushdown punches from Dragoshi, and the heroes smashed it down before it could get a turn!
 
