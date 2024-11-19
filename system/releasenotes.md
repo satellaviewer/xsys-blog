@@ -1,5 +1,24 @@
 # Release Notes
 
+## 1.0.6
+
+### Balance Changes
+* Added support for [data expunged].
+* Most old Grooves slightly improved.
+	* H-Groove: TP cost reduced from 1 to 0.
+	* F-Groove: TP cost reduced from 1 to 0.
+	* L-Groove: Scaling changed from affecting power to adding bonus TP.
+	* A-Groove: Power increased from 50% to 100%.
+	* In short, the elaborate scaling rules for power and limit-modes have been annoying, so we're going to scale TP consumed instead. The "default" is 0 TP, so you still get a full turn, and weaker Grooves instead add a 1 TP cost.
+* V-Groove slightly adjusted.
+	* Power increased from 50% to 100%.
+	* Drive cost increased from 2 to 3.
+	* V-Groove's ability to switch on limit modes very early and potentially keep them on indefinitely has been a persistent thorn in my side. Slowing it down slightly but making it as powerful as any other keeps its identity as "the consistent one," but should help keep it from being *too* good.
+* Added [W-Groove, Z-Groove, and N-Groove](https://www.dustbreaker.co/system/skills#Grooves)!
+	* W-Groove still uses the older power scaling rules, but that's its unique gimmick now.
+	* Z-Groove is for support classes.
+	* N-Groove is silly and fun.
+
 ## 1.0.5b
 
 ### Balance Changes
