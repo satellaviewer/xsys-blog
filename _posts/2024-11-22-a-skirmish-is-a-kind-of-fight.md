@@ -7,38 +7,30 @@ title: "Interlude Nov. '24: A Skirmish is a Kind of Fight"
 
 *Snow continues to fall.*
 
-* MAGUS: So, you think that'll make a good entry for the combat festival?
-* LOA: ...Um, organic things would *definitely* be disqualified. We're supposed to make it.
-* MAGUS: Oh. ...That does make sense, in retrospect.
-* LOA: I appreciate your attempt, though! You made a pretty cool fight. ...How'd you find that thing, anyway?
+*Exime and Loa talk with each other indistinctly in the background; something around Exime seems to be melting the snow, and Loa's periodically rubbing their faceplate to clear it of condensation. Magus looks up at the sky, at the falling snow. He exhales, his breath a cloud of steam.*
 
-*Magus shrugs, noncommittal-- after all, if Marlow found out he'd used the hole-punch to grab a boss from a different dimension, there'd be hell to pay. So, he just leans his back against the railing.*
+* MAGUS: Hey, you two. Can I pick your brains for a sec?
 
-* MAGUS: Eh, you can't let people above you hold you back forever.
+*Exime and Loa look at each other, then back at him.*
 
-*Loa tilts their head. From their camera-face, it's not entirely clear if they understand. Exime, meanwhile, walks down from a higher part of the arena. Her face is stern as usual, glowing eyes sweeping the area as if searching for threats.*
+* LOA: What's a brain?
+* MAGUS: ...Never mind. I just wanna talk. About... certain things.
+* LOA: Oooh, ooh, this is about the hole-punch, isn't it!
 
-* EXIME: The kid's right. You didn't get the point of the festival, either.
-* MAGUS: ...What *is* the point?
+*Loa hops onto the railing, grinds past Magus, and hops down, sitting balanced on the railing. Exime, bemused, just leans beside Magus, every motion calculated and efficient.*
 
-*A tense quiet falls.*
+* MAGUS: Yes. ...The rather extremely illegal hole-punch, yes. Because Marlow wants to control anything that can cross between worlds.
+* EXIME: Well, surely you can agree it's dangerous to just let people meander between worlds as they please. She *does* have a good reason.
+* MAGUS: [cautiously] Well, yes, but...
 
-* LOA: Remember when I [showed you the old Blue Arcadia](https://www.dustbreaker.co/2024/01/28/ff7-change-discs.html)? From before Marlow showed up, and kinda... stopped all the fighting?
-* MAGUS: Yeah. The desolate wasteland. I remember.
-* EXIME: Most combat designs are tightly restricted. We hold the combat festival so that we can stay sharp. So we can defend ourselves, if we have to.
-* LOA [slightly annoyed, as if correcting her]: And so that we remember what unchecked fighting leads to.
+*Magus pauses, as if determining whether or not to say more. Exime is expressionless as usual... but her eyes lid halfway, and she smiles, as though remembering how to do such a thing for his benefit.*
 
-*The quiet becomes dead silence. Exime and Loa are staring each other down, Loa's camera against Exime's glowing artificial eyes... but for once, the smaller Loa doesn't flinch.*
+* EXIME: Relax. If I were going to rat you out, I would've done it ages ago.
+* MAGUS: [a little too quickly] Right, of course. Obviously.
 
-* MAGUS: ...I'll make somethin' more in the spirit for the next one, then.
+*
 
-*That breaks the tension, and Exime looks over at Magus, smiling.*
-
-* EXIME: If you need another set of hands, you know where to find me.
-
-*Exime walks off, mechanical joints whirring. Loa and Magus talk over something for a little while-- then Loa waves, shouts something indistinct, jumps over the railing and engine-floats his way down in a swirl of snow. That leaves Magus looking up at the sky, at the falling snow. He exhales, his breath a cloud of steam.*
-
-* MAGUS (to himself): Well, one jump didn't bring the whole world crumbling down. That probably rules out metaphysical instability. So does that mean the connections between worlds... degraded, in some way?
+* MAGUS: Well, one jump didn't bring the whole world crumbling down. That probably rules out metaphysical instability. So does that mean the connections between worlds... degraded, in some way?
 
 *Magus brings his hands to his face and shelters a cigarette from the wind and snow, lighter clicking a few times before it finally lights. He leans over the railing, twirling the cigarette thoughtfully between his fingers, like one might spin a pen. Notably, he does not actually bring the cigarette to his lips.*
 
