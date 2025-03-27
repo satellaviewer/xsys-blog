@@ -28,34 +28,46 @@ title: "Interlude Nov. '24: A Skirmish is a Kind of Fight"
 * EXIME: Most combat designs are tightly restricted. We hold the combat festival so that we can stay sharp. So we can defend ourselves, if we have to.
 * LOA [slightly annoyed, as if correcting her]: And so that we remember what unchecked fighting leads to.
 
-*The quiet becomes razor sharp. Exime and Loa are staring each other down, but for once, the smaller Loa doesn't flinch.*
+*The quiet becomes dead silence. Exime and Loa are staring each other down, Loa's camera against Exime's glowing artificial eyes... but for once, the smaller Loa doesn't flinch.*
 
 * MAGUS: ...I'll make somethin' more in the spirit for the next one, then.
 
-*That breaks the tension, and Exime shoots a sharp look at Magus.*
+*That breaks the tension, and Exime looks over at Magus, smiling.*
 
-* EXIME: See that you do.
+* EXIME: If you need another set of hands, you know where to find me.
 
-*Exime walks off, mechanical joints whirring. Loa stammers out an excuse and departs in a different direction, jumping over the balcony and engine-floating down. That leaves Magus looking up at the sky, at the falling snow. He exhales, his breath a cloud of steam.*
+*Exime walks off, mechanical joints whirring. Loa and Magus talk over something for a little while-- then Loa waves, shouts something indistinct, jumps over the railing and engine-floats his way down in a swirl of snow. That leaves Magus looking up at the sky, at the falling snow. He exhales, his breath a cloud of steam.*
 
-* MAGUS: And yet, I think it was still worth it.
-* ???: Hell yeah it was. I haven't seen hunting like that in years!
+* MAGUS (to himself): Well, one jump didn't bring the whole world crumbling down. That probably rules out metaphysical instability. So does that mean the connections between worlds... degraded, in some way?
 
-*Magus jolts upright-- his pistol is in his hand before he even consciously processes what's going on, already pointed at the newcomer.*
+*Magus brings his hands to his face and shelters a cigarette from the wind and snow, lighter clicking a few times before it finally lights. He leans over the railing, twirling the cigarette thoughtfully between his fingers, like one might spin a pen. Notably, he does not actually bring the cigarette to his lips.*
+
+* MAGUS: Well, now we have an option, if we need it.
+
+*Behind Magus, a silhouette moves, and a voice calls.*
+
+* ???: Hey, you left a plate down there! Sloppy hunting, if you ask me.
+
+*Magus jolts upright-- his pistol is in his hand before he even consciously processes what's going on, already pointed at the newcomer. Her hands are raised, a large Rathalos scale in one-- noticeably reflexively covering her vitals.*
 
 * ???: Easy! I'm a hunter too. ...Light bowgun, even, just like you.
 
-*Magus looks surprised, and carefully lowers his pistol. The woman standing in front of him has ice-blue hair and purple armor... with a brace around her leg. It's clearly taking her effort to stand, so, with hands raised, she starts to slowly move to sit on the bleachers.*
+*Magus looks surprised. The woman standing in front of him has ice-blue hair and purple armor... with a brace around her leg. It's clearly taking her effort to stand, so, with hands still raised, she starts to slowly move to sit on the bleachers. Magus, almost as an afterthought, lowers the pistol.*
 
 ![High Rank Hunter Ayame, from Monster Hunter Rise.](/assets/images/2024-11-high-rank-hunter-ayame.png)
 
 * MAGUS: ...Who the hell are you?
-* ???: High-rank hunter Ayame. Figured sniffing out whatever was going on with the latest capture was way more interesting than just sitting around the gathering hub for yet another day. And did I ever get more than I expected.
-* MAGUS: Ah hell... No, no, no. We gotta get you back before Marlow actually has proof of any of this...
-* AYAME: Hah. That's a funny joke. I climbed up sixty-five steps to get up here-- I'm damn well not walking back down until you hear me out.
-* MAGUS: ...Then what do you want?
+* ???: Ayame. Hunter, high-rank. Figured sniffing out whatever was going on with the latest capture was way more interesting than just sitting around the gathering hub for yet another day. And did I ever get more than I expected.
+* MAGUS: [carefully] That... makes sense. ...Do you know where you are?
+* AYAME: Nah. But I'm a hunter. It comes with the territory.
 
-*Ayame looks out over the arena.*
+*Magus flicks his cigarette off the balcony and sits down beside her. She's pulled out some kind of fruit, and is carving it with a knife.
+
+* MAGUS: I'm not gonna lie, I gotta take you back.
+* AYAME: [pointing casually with the knife] Chief, I climbed up sixty-five steps to get up here. I'm damn well not walking back down until you hear me out.
+* MAGUS: ...Okay. Shoot.
+
+*Ayame looks out over the arena from her seat in the stands.*
 
 * AYAME: You know, we got one of these arenas back home, too. We capture monsters, throw 'em in there, hone our skills against 'em fighting with one hand tied behind our back, practically.
 * MAGUS: ...Yeah?
@@ -64,9 +76,9 @@ title: "Interlude Nov. '24: A Skirmish is a Kind of Fight"
 *Magus... hesitates, but looks down at her leg. She props her foot up on the bleacher in front of her, defiant as ever.*
 
 * AYAME: I haven't been able to hunt for years now. And hell, the best medics back in Kamura say I might not ever be able to pick up my insect glaive again. But you've got these... walking... machines, beyond even Elgado's hunter research. Whatever this place is, you clearly have *way* better technology than we do.
-* MAGUS: ...Yeah, and that's one of the many reasons I'm not supposed to intervene.
-* AYAME [quiet, with fire in her eyes]: Fine then. I'll keep your secret, if you want.
+* MAGUS: [seeing where this is going] ...Yeah. We do.
 
-*Ayame leans forward, resting her elbow on a raised knee.*
+*Magus sucks air through his teeth. Ayame leans forward, resting her elbow on a raised knee.*
 
-* AYAME: ...But as payment, you're going to fix my leg.
+* MAGUS: You realize, of course, that I'm not supposed to do this. You're not supposed to be here, and if Marlow finds out, all hell is about to break loose.
+* AYAME: You think I'm gonna let a chance like this slip through my fingers? I don't care what it takes.
