@@ -1,5 +1,32 @@
 # Release Notes
 
+## 1.0.7
+
+### Balance Changes
+* The base status length is now 20, down from 30. Currently, statuses feel a little too "fire and forget", and I've always intended there to be a little more pressure around keeping statuses refreshed to keep them up.
+* Wrathguard:
+	* Rally the Rearguard removed. Too complex, too long to resolve. I think I straight-up bribed a hero to not make me resolve this skill the one time it came up.
+	* Added new reaction "Frontline Soldier," which redirects all hits of a multi-target attack to you.
+	* Sharply increased all sources of Breath gain. To compensate, Deep Breath now heals Breath/6 instead of Breath/3.
+	* Salute now gives Hit Up, Defend Up, and Power Up, and is 0 TP, but costs 50 Breath.
+	* Alberhuten now does not give Breath, but inflicts a small amount of CT damage.
+	* These changes should help diversify the class's playstyle.
+* Correspondent:
+	* Impose Sigil is now repeatable.
+	* Impose Sigil now explicitly makes an accuracy roll on enemies, and does not on allies.
+	* Dispose Sigil is now 1 TP (up from 0), mostly due to how long it takes to resolve.
+	* Sigil of the Blackened Painting now has its intended match effect. I formally apologize to E---- S---- for the omission, and expect a formal apology in return for the Fate I spent on that story.
+* Bouncer:
+	* Wyvern Wing Jump now has Delay 4 (up from 2).
+	* Power In Your Soul is now "when combo decreases, gain 1 Combo" (down from "combo decrease is capped at 3"). This ability tends to completely negate the intended downsides of the class, rather than just slightly increasing efficiency like it's intended to.
+
+### Misc
+* Slightly revised wording on various Correspondent skills to prevent line-break problems on IRC. None of these should meaningfully change the tactical options available to the class.
+* Slightly revised wording on Ultima Dominion to use the new "stage up" term.
+* Fixed a bug where !turnorder didn't apply name formatting under very specific circumstances.
+* !colors, with no arguments, now shows your set colors (as requested by Rue).
+* Various small command and formatting bugfixes.
+
 ## 1.0.6
 
 ### Balance Changes
