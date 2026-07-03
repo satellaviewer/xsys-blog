@@ -3,53 +3,63 @@ tags: arc 1, story
 title: "Interlude Nov. '24: A Skirmish is a Kind of Fight"
 ---
 
-*The floodlights above are shutting off one by one as synths help clean up after the fight. Loa's sitting in the stands, and Magus walks up the staircase, resting his hand on a railing out above the center of the arena. The sound of sizzling meat echoes from far away, probably in the gift-shop area.*
+*The floodlights above are shutting off one by one as synths help clean up after the fight. Loa's sitting in the stands, and Magus walks up the staircase, resting his hand on a railing out above the center of the arena. The sound of sizzling non-Rathalos meat echoes from far away, probably in the gift-shop area.*
 
 *Snow continues to fall.*
 
-*Exime and Loa talk with each other indistinctly in the background; something around Exime seems to be melting the snow, and Loa's periodically rubbing their faceplate to clear it of condensation. Magus looks up at the sky, at the falling snow. He exhales, his breath a cloud of steam.*
+*Exime and Loa talk with each other indistinctly in the background; something around Exime seems to be melting the snow, and Loa's periodically rubbing their faceplate to clear it of condensation. Magus looks up at the sky, at the falling snow, at the empty stands. He exhales, his breath a cloud of steam.*
 
-* MAGUS: Hey, you two. Can I pick your brains for a sec?
+*Finally, he turns towards the two synths.*
 
-*Exime and Loa look at each other, then back at him.*
+* MAGUS: Hey. You two. [clap-clap] Panel.
 
-* LOA: What's a brain?
-* MAGUS: ...Never mind. I just wanna talk. About... certain things.
-* LOA: Oooh, ooh, this is about the hole-punch, isn't it!
+*Exime and Loa look at each other, then head over. Loa hops onto the railing, grinds past Magus, and hops down, sitting balanced on the railing. Exime, bemused, just leans beside Magus, every motion calculated and efficient.*
 
-*Loa hops onto the railing, grinds past Magus, and hops down, sitting balanced on the railing. Exime, bemused, just leans beside Magus, every motion calculated and efficient.*
+* MAGUS: So, we deployed the hole-punch successfully, and even brought across a Rathalos.
+* LOA: Yeah, it was awesome! I've never seen a jungle before... I wish I could talk about it.
+* EXIME: In another hour, Big Dendy'll drop by to take the largest pieces off to the bay. That'll clean up the last proof that it wasn't a hologram. Operation complete.
+* MAGUS: Yeah. Great work. Not what I had to talk about.
 
-* MAGUS: Yes. ...The rather extremely illegal hole-punch, yes. Because Marlow wants to control anything that can cross between worlds.
-* EXIME: Well, surely you can agree it's dangerous to just let people meander between worlds as they please. She *does* have a good reason.
-* MAGUS: [cautiously] Well, yes, but...
+*Exime furrows her brow, leaning harder on the railing, turning towards Magus.*
 
-*Magus pauses, as if determining whether or not to say more. Exime is expressionless as usual... but her eyes lid halfway, and she smiles, as though remembering how to do such a thing for his benefit.*
+* EXIME: ...What, then?
+* MAGUS: This whole process was easy. But that just raises more questions.
 
-* EXIME: Relax. If I were going to rat you out, I would've done it ages ago.
-* MAGUS: [a little too quickly] Right, of course. Obviously.
+* Magus turns around, looking out over the arena.*
 
-*
+* MAGUS: One jump didn't bring the whole world crumbling down. Implications?
+* LOA: Working theories, metaphysical instability, connection degradation, active interference. If it didn't cause backlash, and it didn't seem to attract attention, then...
+* EXIME: Posit: The connections between worlds must have degraded, in some way.
+* MAGUS: Problem: why was it fine for decades, and then practically overnight... everyone was just *gone?*
 
-* MAGUS: Well, one jump didn't bring the whole world crumbling down. That probably rules out metaphysical instability. So does that mean the connections between worlds... degraded, in some way?
+*All three of them all silent, thinking over it. Magus stares up at the sky, at the falling snow.*
 
-*Magus brings his hands to his face and shelters a cigarette from the wind and snow, lighter clicking a few times before it finally lights. He leans over the railing, twirling the cigarette thoughtfully between his fingers, like one might spin a pen. Notably, he does not actually bring the cigarette to his lips.*
-
-* MAGUS: Well, now we have an option, if we need it.
+* MAGUS: Well, regardless... now we have an option, if we need it.
 
 *Behind Magus, a silhouette moves, and a voice calls.*
 
-* ???: Hey, you left a plate down there! Sloppy hunting, if you ask me.
+* ???: [playfully] Hey, you left a plate down there! Sloppy hunting, if you ask me.
 
-*Magus jolts upright-- his pistol is in his hand before he even consciously processes what's going on, already pointed at the newcomer. Her hands are raised, a large Rathalos scale in one-- noticeably reflexively covering her vitals.*
+*Magus jolts upright-- his pistol is in his hand before he even consciously processes what's going on, already pointed at the newcomer. Her hands are half-raised, a large Rathalos scale in one-- noticeably reflexively covering her vitals.*
 
-* ???: Easy! I'm a hunter too. ...Light bowgun, even, just like you.
+* ???: Easy! I'm a hunter. ...Light bowgun, even, just like you.
 
 *Magus looks surprised. The woman standing in front of him has ice-blue hair and purple armor... with a brace around her leg. It's clearly taking her effort to stand, so, with hands still raised, she starts to slowly move to sit on the bleachers. Magus, almost as an afterthought, lowers the pistol.*
 
 ![High Rank Hunter Ayame, from Monster Hunter Rise.](/assets/images/2024-11-high-rank-hunter-ayame.png)
 
 * MAGUS: ...Who the hell are you?
-* ???: Ayame. Hunter, high-rank. Figured sniffing out whatever was going on with the latest capture was way more interesting than just sitting around the gathering hub for yet another day. And did I ever get more than I expected.
+* ???: Ayame, of Kamura Village. Your bowgun's loud as hell, by the way.
+* MAGUS: ...Well, shit.
+
+*Magus re-holsters his pistol. Neither Exime nor Loa seem to have taken it nearly so seriously.*
+
+-----
+
+*Magus brings his hands to his face and shelters a cigarette from the wind and snow, lighter clicking a few times before it finally lights. He leans over the railing, twirling the cigarette thoughtfully between his fingers, like one might spin a pen. Notably, he does not actually bring the cigarette to his lips.*
+
+
+Figured sniffing out whatever was going on with the latest capture was way more interesting than just sitting around the gathering hub for yet another day. And did I ever get more than I expected.
 * MAGUS: [carefully] That... makes sense. ...Do you know where you are?
 * AYAME: Nah. But I'm a hunter. It comes with the territory.
 
